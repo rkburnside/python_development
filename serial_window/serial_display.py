@@ -9,7 +9,7 @@ from pygame.locals import *
 from sys import exit
 from random import *
 
-ser = serial.Serial(16, 115200, timeout=1000)
+ser = serial.Serial(2, 115200, timeout=1000)
 pygame.init()
 SCREEN_DEFAULT_SIZE = (1000, 500)
 SCREEN_DEFAULT_COLOR = (0, 0, 0)
@@ -32,23 +32,28 @@ while 1:
     #     s = s.split(',')
     #     pygame.draw.circle(screen, (250, 250, 250), (1024 - int(s[1]), 800 - int(s[2])), int(s[3]) * 10)
     screen.fill(SCREEN_DEFAULT_COLOR)
-    time.sleep(.1)
+    # time.sleep(.1)
 
     # render text
     label_IR = myfont_text.render("Infrared", 1, (255,255,0))
     screen.blit(label_IR, (15, 0))
     label_IR = myfont_text.render("Distance", 1, (255,255,0))
     screen.blit(label_IR, (15, 75))
+    label_IR = myfont_text.render(" Inches", 1, (255,255,0))
+    screen.blit(label_IR, (15, 150))
 
     label_IR = myfont_numbers.render(str(temp[0]), 1, (255,255,0))
-    screen.blit(label_IR, (35, 150))
+    screen.blit(label_IR, (45, 225))
 
     label_IR = myfont_text.render("Ultrasonic", 1, (255,255,0))
     screen.blit(label_IR, (500, 0))
     label_IR = myfont_text.render(" Distance", 1, (255,255,0))
     screen.blit(label_IR, (500, 75))
+    label_IR = myfont_text.render("  Inches", 1, (255,255,0))
+    screen.blit(label_IR, (500, 150))
 
     label_sonic = myfont_numbers.render(str(temp[1]), 1, (255,255,0))
-    screen.blit(label_sonic, (625, 150))
+    screen.blit(label_sonic, (625, 225))
 
     pygame.display.update()
+    time.sleep(.05)

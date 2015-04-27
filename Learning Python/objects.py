@@ -64,4 +64,18 @@ print M
 M.reverse()
 print M
 
-# Bounds Checking (pg 206)
+# Bounds Checking (Ch 4.3)
+L = [123, 'spam', 'NI']
+L.append('cool')
+print L
+
+# Nesting
+M = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+print M
+print M[1]
+print M[1][2]
+
+# Comprehensions (Ch 4.4)
+col2 = [row[1] for row in M]
+print col2
+col2

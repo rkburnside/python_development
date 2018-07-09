@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<gpx creator="GaiaGPS" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+<name>CDT Upload Track 1</name>
+<desc>
+</desc>
+<trkseg>
+<trkpt lat="31.4970526379" lon="-108.208554257">
+<ele>1310.416</ele>
+</trkpt>
+<trkpt lat="31.4971635304" lon="-108.210319318">
+<ele>1311.231</ele>
+</trkpt>
+<trkpt lat="31.4974843059" lon="-108.212054288">
+<ele>1311.751</ele>
+</trkpt>
+<trkpt lat="31.497770045" lon="-108.213797556">
+<ele>1312.175</ele>
+</trkpt>
+<trkpt lat="31.4975894149" lon="-108.215552475">
+<ele>1313.169</ele>
+</trkpt>
+<trkpt lat="31.4972341061" lon="-108.217284512">
+<ele>1314.515</ele>
+</trkpt>
+<trkpt lat="31.4965200517" lon="-108.219705038">
+<ele>1316.953</ele>
+</trkpt>
+<trkpt lat="31.4958717953" lon="-108.221235406">
+<ele>1318.637</ele>
+</trkpt>
+<trkpt lat="31.4959272835" lon="-108.223513355">
+<ele>1319.682</ele>
+</trkpt>
+<trkpt lat="31.4965062216" lon="-108.225209098">
+<ele>1319.98</ele>
+</trkpt>
+<trkpt lat="31.4971046057" lon="-108.226776598">
+<ele>1320.356</ele>
+</trkpt>
+<trkpt lat="48.9908416942" lon="-113.90763754">
+<ele>1290.329</ele>
+</trkpt>
+<trkpt lat="48.9925840404" lon="-113.906125193">
+<ele>1290.183</ele>
+</trkpt>
+<trkpt lat="48.9936364722" lon="-113.904656265">
+<ele>1286.251</ele>
+</trkpt>
+<trkpt lat="48.9943636023" lon="-113.906637998">
+<ele>1292.306</ele>
+</trkpt>
+<trkpt lat="48.996073762" lon="-113.908133665">
+<ele>1293.715</ele>
+</trkpt>
+<trkpt lat="48.9973954204" lon="-113.907459425">
+<ele>1298.866</ele>
+</trkpt>
+<trkpt lat="48.9986117184" lon="-113.906064341">
+<ele>1287.457</ele>
+</trkpt>
+<trkpt lat="48.9998546708" lon="-113.906608662">
+<ele>1290.998</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

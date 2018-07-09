@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2017-03-27T17:08:48.725Z</time>
+  <bounds minlat="31.495984029" minlon="-113.935054997" maxlat="49.046811014" maxlon="-105.663449960"/>
+  <wpt lat="47.431976013" lon="-112.901842017">
+    <name>WPT5232</name>
+    <cmt>WPT5232</cmt>
+    <desc>WPT5232</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.447970025" lon="-112.910129037">
+    <name>WPT5231</name>
+    <cmt>WPT5231</cmt>
+    <desc>WPT5231</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.456089994" lon="-112.918181028">
+    <name>WPT5235</name>
+    <cmt>WPT5235</cmt>
+    <desc>WPT5235</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.471520994" lon="-112.928475011">
+    <name>WPT5234</name>
+    <cmt>WPT5234</cmt>
+    <desc>WPT5234</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.481914973" lon="-112.926009977">
+    <name>WPT5243</name>
+    <cmt>WPT5243</cmt>
+    <desc>WPT5243</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.481915979" lon="-112.926003020">
+    <name>WPT5236</name>
+    <cmt>WPT5236</cmt>
+    <desc>WPT5236</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.492974978" lon="-112.907120017">
+    <name>WPT5237</name>
+    <cmt>WPT5237</cmt>
+    <desc>WPT5237</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.519899998" lon="-112.906376962">
+    <name>WPT5239</name>
+    <cmt>WPT5239</cmt>
+    <desc>WPT5239</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.535268972" lon="-112.917006975">
+    <name>WPT5240</name>
+    <cmt>WPT5240</cmt>
+    <desc>WPT5240</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.550600981" lon="-112.927584015">
+    <name>WPT5241</name>
+    <cmt>WPT5241</cmt>
+    <desc>WPT5241</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.552008973" lon="-112.996796994">
+    <name>WPT5245</name>
+    <cmt>WPT5245</cmt>
+    <desc>WPT5245</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.554075029" lon="-112.952062022">
+    <name>WPT5242</name>
+    <cmt>WPT5242</cmt>
+    <desc>WPT5242</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.554275021" lon="-112.971994020">
+    <name>WPT5244</name>
+    <cmt>WPT5244</cmt>
+    <desc>WPT5244</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.560113017" lon="-113.018748024">
+    <name>WPT5246</name>
+    <cmt>WPT5246</cmt>
+    <desc>WPT5246</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.568087978" lon="-113.040805003">
+    <name>WPT5247</name>
+    <cmt>WPT5247</cmt>
+    <desc>WPT5247</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.579281004" lon="-113.059585998">
+    <name>WPT5248</name>
+    <cmt>WPT5248</cmt>
+    <desc>WPT5248</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.595266970" lon="-113.067849968">
+    <name>WPT5249</name>
+    <cmt>WPT5249</cmt>
+    <desc>WPT5249</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.612214005" lon="-113.068307033">
+    <name>WPT5250</name>
+    <cmt>WPT5250</cmt>
+    <desc>WPT5250</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.628487973" lon="-113.075213972">
+    <name>WPT5251</name>
+    <cmt>WPT5251</cmt>
+    <desc>WPT5251</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.645129990" lon="-113.079742966">
+    <name>WPT5252</name>
+    <cmt>WPT5252</cmt>
+    <desc>WPT5252</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.650602031" lon="-113.103425028">
+    <name>WPT5253</name>
+    <cmt>WPT5253</cmt>
+    <desc>WPT5253</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.660974972" lon="-113.123209001">
+    <name>WPT5254</name>
+    <cmt>WPT5254</cmt>
+    <desc>WPT5254</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.673858041" lon="-113.139477018">
+    <name>WPT5255</name>
+    <cmt>WPT5255</cmt>
+    <desc>WPT5255</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.690270981" lon="-113.145685997">
+    <name>WPT5256</name>
+    <cmt>WPT5256</cmt>
+    <desc>WPT5256</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.705955030" lon="-113.155158972">
+    <name>WPT5257</name>
+    <cmt>WPT5257</cmt>
+    <desc>WPT5257</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.722205026" lon="-113.162295995">
+    <name>WPT5258</name>
+    <cmt>WPT5258</cmt>
+    <desc>WPT5258</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.723419983" lon="-113.080380997">
+    <name>WPT5262</name>
+    <cmt>WPT5262</cmt>
+    <desc>WPT5262</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.729037032" lon="-113.104055012">
+    <name>WPT5261</name>
+    <cmt>WPT5261</cmt>
+    <desc>WPT5261</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.731445991" lon="-113.058319995">
+    <name>WPT5263</name>
+    <cmt>WPT5263</cmt>
+    <desc>WPT5263</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.733694017" lon="-113.143875003">
+    <name>WPT5259</name>
+    <cmt>WPT5259</cmt>
+    <desc>WPT5259</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.740084967" lon="-113.036683034">
+    <name>WPT5264</name>
+    <cmt>WPT5264</cmt>
+    <desc>WPT5264</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.741286010" lon="-113.121446036">
+    <name>WPT5260</name>
+    <cmt>WPT5260</cmt>
+    <desc>WPT5260</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.749566995" lon="-113.015837995">
+    <name>WPT5265</name>
+    <cmt>WPT5265</cmt>
+    <desc>WPT5265</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.758824974" lon="-112.994845016">
+    <name>WPT5266</name>
+    <cmt>WPT5266</cmt>
+    <desc>WPT5266</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.770902961" lon="-112.977175964">
+    <name>WPT5267</name>
+    <cmt>WPT5267</cmt>
+    <desc>WPT5267</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.780093970" lon="-112.956103021">
+    <name>WPT5268</name>
+    <cmt>WPT5268</cmt>
+    <desc>WPT5268</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.789715976" lon="-112.976811016">
+    <name>WPT5269</name>
+    <cmt>WPT5269</cmt>
+    <desc>WPT5269</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.797153993" lon="-113.056456028">
+    <name>WPT5272</name>
+    <cmt>WPT5272</cmt>
+    <desc>WPT5272</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.798557039" lon="-112.998234993">
+    <name>WPT5270</name>
+    <cmt>WPT5270</cmt>
+    <desc>WPT5270</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.799411993" lon="-113.036923008">
+    <name>WPT5278</name>
+    <cmt>WPT5278</cmt>
+    <desc>WPT5278</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.802004013" lon="-113.022861024">
+    <name>WPT5271</name>
+    <cmt>WPT5271</cmt>
+    <desc>WPT5271</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.813900029" lon="-113.052705964">
+    <name>WPT5273</name>
+    <cmt>WPT5273</cmt>
+    <desc>WPT5273</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.830738015" lon="-113.050157027">
+    <name>WPT5274</name>
+    <cmt>WPT5274</cmt>
+    <desc>WPT5274</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.847614978" lon="-113.047901960">
+    <name>WPT5275</name>
+    <cmt>WPT5275</cmt>
+    <desc>WPT5275</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.864385992" lon="-113.051120024">
+    <name>WPT5276</name>
+    <cmt>WPT5276</cmt>
+    <desc>WPT5276</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.880778983" lon="-113.057384994">
+    <name>WPT5277</name>
+    <cmt>WPT5277</cmt>
+    <desc>WPT5277</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.886610022" lon="-113.056432977">
+    <name>WPT5279</name>
+    <cmt>WPT5279</cmt>
+    <desc>WPT5279</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.896669982" lon="-113.076659013">
+    <name>WPT5280</name>
+    <cmt>WPT5280</cmt>
+    <desc>WPT5280</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.908096025" lon="-113.058045991">
+    <name>WPT5281</name>
+    <cmt>WPT5281</cmt>
+    <desc>WPT5281</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.911525983" lon="-112.985404981">
+    <name>WPT5284</name>
+    <cmt>WPT5284</cmt>
+    <desc>WPT5284</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.914806996" lon="-113.034901042">
+    <name>WPT5282</name>
+    <cmt>WPT5282</cmt>
+    <desc>WPT5282</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.915795976" lon="-113.009770000">
+    <name>WPT5283</name>
+    <cmt>WPT5283</cmt>
+    <desc>WPT5283</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.925208015" lon="-112.970565995">
+    <name>WPT5285</name>
+    <cmt>WPT5285</cmt>
+    <desc>WPT5285</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.941942988" lon="-112.974343970">
+    <name>WPT5286</name>
+    <cmt>WPT5286</cmt>
+    <desc>WPT5286</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.957925014" lon="-112.982673990">
+    <name>WPT5287</name>
+    <cmt>WPT5287</cmt>
+    <desc>WPT5287</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.970680008" lon="-112.999306032">
+    <name>WPT5288</name>
+    <cmt>WPT5288</cmt>
+    <desc>WPT5288</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.978724958" lon="-113.021501983">
+    <name>WPT5289</name>
+    <cmt>WPT5289</cmt>
+    <desc>WPT5289</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.987538027" lon="-113.043007012">
+    <name>WPT5290</name>
+    <cmt>WPT5290</cmt>
+    <desc>WPT5290</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.004381964" lon="-113.040608028">
+    <name>WPT5291</name>
+    <cmt>WPT5291</cmt>
+    <desc>WPT5291</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.016888015" lon="-113.023632998">
+    <name>WPT5292</name>
+    <cmt>WPT5292</cmt>
+    <desc>WPT5292</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.033026028" lon="-113.015973028">
+    <name>WPT5293</name>
+    <cmt>WPT5293</cmt>
+    <desc>WPT5293</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.048961032" lon="-113.024540003">
+    <name>WPT5294</name>
+    <cmt>WPT5294</cmt>
+    <desc>WPT5294</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.065360980" lon="-113.030710006">
+    <name>WPT5295</name>
+    <cmt>WPT5295</cmt>
+    <desc>WPT5295</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.081465969" lon="-113.038403001">
+    <name>WPT5296</name>
+    <cmt>WPT5296</cmt>
+    <desc>WPT5296</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.098101029" lon="-113.042981029">
+    <name>WPT5297</name>
+    <cmt>WPT5297</cmt>
+    <desc>WPT5297</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.111992022" lon="-113.028526017">
+    <name>WPT5298</name>
+    <cmt>WPT5298</cmt>
+    <desc>WPT5298</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.128463970" lon="-113.034707000">
+    <name>WPT5299</name>
+    <cmt>WPT5299</cmt>
+    <desc>WPT5299</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.138844036" lon="-113.054710999">
+    <name>WPT5300</name>
+    <cmt>WPT5300</cmt>
+    <desc>WPT5300</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.146107960" lon="-113.077601977">
+    <name>WPT5301</name>
+    <cmt>WPT5301</cmt>
+    <desc>WPT5301</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.157473989" lon="-113.096355982">
+    <name>WPT5302</name>
+    <cmt>WPT5302</cmt>
+    <desc>WPT5302</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.169188034" lon="-113.114656024">
+    <name>WPT5303</name>
+    <cmt>WPT5303</cmt>
+    <desc>WPT5303</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.178882040" lon="-113.135406012">
+    <name>WPT5304</name>
+    <cmt>WPT5304</cmt>
+    <desc>WPT5304</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.188642012" lon="-113.156140996">
+    <name>WPT5305</name>
+    <cmt>WPT5305</cmt>
+    <desc>WPT5305</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.198868018" lon="-113.176325038">
+    <name>WPT5306</name>
+    <cmt>WPT5306</cmt>
+    <desc>WPT5306</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.213540958" lon="-113.188914992">
+    <name>WPT5307</name>
+    <cmt>WPT5307</cmt>
+    <desc>WPT5307</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.224402983" lon="-113.208313985">
+    <name>WPT5308</name>
+    <cmt>WPT5308</cmt>
+    <desc>WPT5308</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.241069978" lon="-113.204044998">
+    <name>WPT5309</name>
+    <cmt>WPT5309</cmt>
+    <desc>WPT5309</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.249939959" lon="-113.182439972">
+    <name>WPT5310</name>
+    <cmt>WPT5310</cmt>
+    <desc>WPT5310</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.253938965" lon="-113.157815030">
+    <name>WPT5311</name>
+    <cmt>WPT5311</cmt>
+    <desc>WPT5311</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.269012980" lon="-113.169390019">
+    <name>WPT5312</name>
+    <cmt>WPT5312</cmt>
+    <desc>WPT5312</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.277816996" lon="-113.191024968">
+    <name>WPT5313</name>
+    <cmt>WPT5313</cmt>
+    <desc>WPT5313</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.279576022" lon="-113.231990011">
+    <name>WPT5315</name>
+    <cmt>WPT5315</cmt>
+    <desc>WPT5315</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.286045007" lon="-113.255416006">
+    <name>WPT5316</name>
+    <cmt>WPT5316</cmt>
+    <desc>WPT5316</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.288604002" lon="-113.210539967">
+    <name>WPT5314</name>
+    <cmt>WPT5314</cmt>
+    <desc>WPT5314</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.294565966" lon="-113.277306017">
+    <name>WPT5317</name>
+    <cmt>WPT5317</cmt>
+    <desc>WPT5317</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.298875019" lon="-113.301815959">
+    <name>WPT5318</name>
+    <cmt>WPT5318</cmt>
+    <desc>WPT5318</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.314668033" lon="-113.310882999">
+    <name>WPT5319</name>
+    <cmt>WPT5319</cmt>
+    <desc>WPT5319</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.318810035" lon="-113.352166973">
+    <name>WPT5320</name>
+    <cmt>WPT5320</cmt>
+    <desc>WPT5320</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.320551040" lon="-113.340371037">
+    <name>WPT5324</name>
+    <cmt>WPT5324</cmt>
+    <desc>WPT5324</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.326158030" lon="-113.375061974">
+    <name>WPT5321</name>
+    <cmt>WPT5321</cmt>
+    <desc>WPT5321</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.326285016" lon="-113.316472974">
+    <name>WPT5323</name>
+    <cmt>WPT5323</cmt>
+    <desc>WPT5323</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.336625015" lon="-113.355078008">
+    <name>WPT5322</name>
+    <cmt>WPT5322</cmt>
+    <desc>WPT5322</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.344851015" lon="-113.349947026">
+    <name>WPT5325</name>
+    <cmt>WPT5325</cmt>
+    <desc>WPT5325</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.357524034" lon="-113.333091019">
+    <name>WPT5326</name>
+    <cmt>WPT5326</cmt>
+    <desc>WPT5326</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.370699966" lon="-113.317166995">
+    <name>WPT5327</name>
+    <cmt>WPT5327</cmt>
+    <desc>WPT5327</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.386242026" lon="-113.306993041">
+    <name>WPT5328</name>
+    <cmt>WPT5328</cmt>
+    <desc>WPT5328</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.390240027" lon="-113.304690029">
+    <name>WPT5334</name>
+    <cmt>WPT5334</cmt>
+    <desc>WPT5334</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.402819000" lon="-113.301732978">
+    <name>WPT5329</name>
+    <cmt>WPT5329</cmt>
+    <desc>WPT5329</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.418038022" lon="-113.290547999">
+    <name>WPT5330</name>
+    <cmt>WPT5330</cmt>
+    <desc>WPT5330</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.431444960" lon="-113.274880964">
+    <name>WPT5331</name>
+    <cmt>WPT5331</cmt>
+    <desc>WPT5331</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.441286990" lon="-113.254124019">
+    <name>WPT5332</name>
+    <cmt>WPT5332</cmt>
+    <desc>WPT5332</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.443887979" lon="-113.229004964">
+    <name>WPT5333</name>
+    <cmt>WPT5333</cmt>
+    <desc>WPT5333</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.446805971" lon="-113.228104999">
+    <name>WPT5335</name>
+    <cmt>WPT5335</cmt>
+    <desc>WPT5335</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.453336982" lon="-113.251564018">
+    <name>WPT5336</name>
+    <cmt>WPT5336</cmt>
+    <desc>WPT5336</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.463368025" lon="-113.272057017">
+    <name>WPT5337</name>
+    <cmt>WPT5337</cmt>
+    <desc>WPT5337</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.474027039" lon="-113.291949034">
+    <name>WPT5338</name>
+    <cmt>WPT5338</cmt>
+    <desc>WPT5338</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.479579967" lon="-113.336525001">
+    <name>WPT5340</name>
+    <cmt>WPT5340</cmt>
+    <desc>WPT5340</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.484365027" lon="-113.312082030">
+    <name>WPT5339</name>
+    <cmt>WPT5339</cmt>
+    <desc>WPT5339</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.485143036" lon="-113.360587014">
+    <name>WPT5341</name>
+    <cmt>WPT5341</cmt>
+    <desc>WPT5341</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.492507963" lon="-113.368691979">
+    <name>WPT5348</name>
+    <cmt>WPT5348</cmt>
+    <desc>WPT5348</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.509433959" lon="-113.370605987">
+    <name>WPT5347</name>
+    <cmt>WPT5347</cmt>
+    <desc>WPT5347</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.511597998" lon="-113.444502018">
+    <name>WPT5344</name>
+    <cmt>WPT5344</cmt>
+    <desc>WPT5344</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.514640965" lon="-113.419434009">
+    <name>WPT5345</name>
+    <cmt>WPT5345</cmt>
+    <desc>WPT5345</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.516149037" lon="-113.394003985">
+    <name>WPT5346</name>
+    <cmt>WPT5346</cmt>
+    <desc>WPT5346</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.524029031" lon="-113.461802015">
+    <name>WPT5343</name>
+    <cmt>WPT5343</cmt>
+    <desc>WPT5343</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.540760987" lon="-113.457797980">
+    <name>WPT5342</name>
+    <cmt>WPT5342</cmt>
+    <desc>WPT5342</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.541977033" lon="-113.456534995">
+    <name>WPT5351</name>
+    <cmt>WPT5351</cmt>
+    <desc>WPT5351</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.558748970" lon="-113.453216013">
+    <name>WPT5350</name>
+    <cmt>WPT5350</cmt>
+    <desc>WPT5350</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.573981989" lon="-113.462680019">
+    <name>WPT5354</name>
+    <cmt>WPT5354</cmt>
+    <desc>WPT5354</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.574291030" lon="-113.513671998">
+    <name>WPT5352</name>
+    <cmt>WPT5352</cmt>
+    <desc>WPT5352</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.574831998" lon="-113.488181038">
+    <name>WPT5353</name>
+    <cmt>WPT5353</cmt>
+    <desc>WPT5353</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.575686030" lon="-113.453643993">
+    <name>WPT5349</name>
+    <cmt>WPT5349</cmt>
+    <desc>WPT5349</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.576674005" lon="-113.515957994">
+    <name>WPT5358</name>
+    <cmt>WPT5358</cmt>
+    <desc>WPT5358</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.593324991" lon="-113.520387998">
+    <name>WPT5357</name>
+    <cmt>WPT5357</cmt>
+    <desc>WPT5357</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.609773973" lon="-113.526625978">
+    <name>WPT5356</name>
+    <cmt>WPT5356</cmt>
+    <desc>WPT5356</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.626529984" lon="-113.522782037">
+    <name>WPT5355</name>
+    <cmt>WPT5355</cmt>
+    <desc>WPT5355</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.638628004" lon="-113.525587963">
+    <name>WPT5361</name>
+    <cmt>WPT5361</cmt>
+    <desc>WPT5361</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.649175037" lon="-113.505582958">
+    <name>WPT5360</name>
+    <cmt>WPT5360</cmt>
+    <desc>WPT5360</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.662342001" lon="-113.489566986">
+    <name>WPT5359</name>
+    <cmt>WPT5359</cmt>
+    <desc>WPT5359</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.662425987" lon="-113.606558992">
+    <name>WPT5366</name>
+    <cmt>WPT5366</cmt>
+    <desc>WPT5366</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.667163020" lon="-113.490799041">
+    <name>WPT5363</name>
+    <cmt>WPT5363</cmt>
+    <desc>WPT5363</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.668368002" lon="-113.582608039">
+    <name>WPT5367</name>
+    <cmt>WPT5367</cmt>
+    <desc>WPT5367</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.668850968" lon="-113.630233007">
+    <name>WPT5365</name>
+    <cmt>WPT5365</cmt>
+    <desc>WPT5365</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.674135003" lon="-113.558535967">
+    <name>WPT5368</name>
+    <cmt>WPT5368</cmt>
+    <desc>WPT5368</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.677548030" lon="-113.652144978">
+    <name>WPT5364</name>
+    <cmt>WPT5364</cmt>
+    <desc>WPT5364</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.677559011" lon="-113.652154030">
+    <name>WPT5372</name>
+    <cmt>WPT5372</cmt>
+    <desc>WPT5372</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.679475030" lon="-113.534244038">
+    <name>WPT5369</name>
+    <cmt>WPT5369</cmt>
+    <desc>WPT5369</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.681893963" lon="-113.478228031">
+    <name>WPT5362</name>
+    <cmt>WPT5362</cmt>
+    <desc>WPT5362</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.681945009" lon="-113.508935971">
+    <name>WPT5370</name>
+    <cmt>WPT5370</cmt>
+    <desc>WPT5370</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.682085993" lon="-113.483387008">
+    <name>WPT5371</name>
+    <cmt>WPT5371</cmt>
+    <desc>WPT5371</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.694011010" lon="-113.658273993">
+    <name>WPT5373</name>
+    <cmt>WPT5373</cmt>
+    <desc>WPT5373</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.710880009" lon="-113.656383036">
+    <name>WPT5374</name>
+    <cmt>WPT5374</cmt>
+    <desc>WPT5374</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.721357975" lon="-113.676494993">
+    <name>WPT5375</name>
+    <cmt>WPT5375</cmt>
+    <desc>WPT5375</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.735280987" lon="-113.691091994">
+    <name>WPT5376</name>
+    <cmt>WPT5376</cmt>
+    <desc>WPT5376</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.751728041" lon="-113.697295021">
+    <name>WPT5377</name>
+    <cmt>WPT5377</cmt>
+    <desc>WPT5377</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.767105984" lon="-113.686572975">
+    <name>WPT5378</name>
+    <cmt>WPT5378</cmt>
+    <desc>WPT5378</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.774444005" lon="-113.777470021">
+    <name>WPT5382</name>
+    <cmt>WPT5382</cmt>
+    <desc>WPT5382</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.778781975" lon="-113.668047041">
+    <name>WPT5379</name>
+    <cmt>WPT5379</cmt>
+    <desc>WPT5379</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.780439999" lon="-113.753532982">
+    <name>WPT5381</name>
+    <cmt>WPT5381</cmt>
+    <desc>WPT5381</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.787338976" lon="-113.738534991">
+    <name>WPT5388</name>
+    <cmt>WPT5388</cmt>
+    <desc>WPT5388</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.790647984" lon="-113.731381958">
+    <name>WPT5392</name>
+    <cmt>WPT5392</cmt>
+    <desc>WPT5392</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.791364972" lon="-113.777977964">
+    <name>WPT5383</name>
+    <cmt>WPT5383</cmt>
+    <desc>WPT5383</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.794047013" lon="-113.656962980">
+    <name>WPT5380</name>
+    <cmt>WPT5380</cmt>
+    <desc>WPT5380</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.797555007" lon="-113.708009021">
+    <name>WPT5391</name>
+    <cmt>WPT5391</cmt>
+    <desc>WPT5391</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.798501994" lon="-113.682441032">
+    <name>WPT5390</name>
+    <cmt>WPT5390</cmt>
+    <desc>WPT5390</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.800161025" lon="-113.656962980">
+    <name>WPT5389</name>
+    <cmt>WPT5389</cmt>
+    <desc>WPT5389</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.802570989" lon="-113.646616023">
+    <name>WPT5393</name>
+    <cmt>WPT5393</cmt>
+    <desc>WPT5393</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.807867011" lon="-113.772297967">
+    <name>WPT5384</name>
+    <cmt>WPT5384</cmt>
+    <desc>WPT5384</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.808890022" lon="-113.624287974">
+    <name>WPT5414</name>
+    <cmt>WPT5414</cmt>
+    <desc>WPT5414</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.817377035" lon="-113.793488005">
+    <name>WPT5385</name>
+    <cmt>WPT5385</cmt>
+    <desc>WPT5385</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.821643004" lon="-113.607403971">
+    <name>WPT5413</name>
+    <cmt>WPT5413</cmt>
+    <desc>WPT5413</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.830795959" lon="-113.809064012">
+    <name>WPT5386</name>
+    <cmt>WPT5386</cmt>
+    <desc>WPT5386</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.834446026" lon="-113.590565985">
+    <name>WPT5412</name>
+    <cmt>WPT5412</cmt>
+    <desc>WPT5412</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.842532970" lon="-113.827500008">
+    <name>WPT5387</name>
+    <cmt>WPT5387</cmt>
+    <desc>WPT5387</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.846982000" lon="-113.838980030">
+    <name>WPT5394</name>
+    <cmt>WPT5394</cmt>
+    <desc>WPT5394</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.850948988" lon="-113.596167024">
+    <name>WPT5411</name>
+    <cmt>WPT5411</cmt>
+    <desc>WPT5411</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.852818990" lon="-113.646527007">
+    <name>WPT5409</name>
+    <cmt>WPT5409</cmt>
+    <desc>WPT5409</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.854606012" lon="-113.861858016">
+    <name>WPT5395</name>
+    <cmt>WPT5395</cmt>
+    <desc>WPT5395</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.855023012" lon="-113.621055996">
+    <name>WPT5410</name>
+    <cmt>WPT5410</cmt>
+    <desc>WPT5410</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.857191997" lon="-113.671346996">
+    <name>WPT5408</name>
+    <cmt>WPT5408</cmt>
+    <desc>WPT5408</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.864692962" lon="-113.694376023">
+    <name>WPT5407</name>
+    <cmt>WPT5407</cmt>
+    <desc>WPT5407</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.866422987" lon="-113.880198961">
+    <name>WPT5396</name>
+    <cmt>WPT5396</cmt>
+    <desc>WPT5396</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.874072982" lon="-113.903067978">
+    <name>WPT5397</name>
+    <cmt>WPT5397</cmt>
+    <desc>WPT5397</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.880737014" lon="-113.702527005">
+    <name>WPT5406</name>
+    <cmt>WPT5406</cmt>
+    <desc>WPT5406</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.890622966" lon="-113.908327036">
+    <name>WPT5398</name>
+    <cmt>WPT5398</cmt>
+    <desc>WPT5398</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.891091011" lon="-113.722795034">
+    <name>WPT5405</name>
+    <cmt>WPT5405</cmt>
+    <desc>WPT5405</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.891091011" lon="-113.722795034">
+    <name>WPT5415</name>
+    <cmt>WPT5415</cmt>
+    <desc>WPT5415</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.905699998" lon="-113.726633023">
+    <name>WPT5422</name>
+    <cmt>WPT5422</cmt>
+    <desc>WPT5422</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.907504035" lon="-113.906602962">
+    <name>WPT5399</name>
+    <cmt>WPT5399</cmt>
+    <desc>WPT5399</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.922163984" lon="-113.720739959">
+    <name>WPT5421</name>
+    <cmt>WPT5421</cmt>
+    <desc>WPT5421</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.923612041" lon="-113.898719028">
+    <name>WPT5400</name>
+    <cmt>WPT5400</cmt>
+    <desc>WPT5400</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.936718991" lon="-113.707686989">
+    <name>WPT5420</name>
+    <cmt>WPT5420</cmt>
+    <desc>WPT5420</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.939772015" lon="-113.891088981">
+    <name>WPT5401</name>
+    <cmt>WPT5401</cmt>
+    <desc>WPT5401</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.951330995" lon="-113.694714988">
+    <name>WPT5419</name>
+    <cmt>WPT5419</cmt>
+    <desc>WPT5419</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.956670016" lon="-113.892522035">
+    <name>WPT5402</name>
+    <cmt>WPT5402</cmt>
+    <desc>WPT5402</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.966122037" lon="-113.682264006">
+    <name>WPT5418</name>
+    <cmt>WPT5418</cmt>
+    <desc>WPT5418</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.972565960" lon="-113.901306018">
+    <name>WPT5403</name>
+    <cmt>WPT5403</cmt>
+    <desc>WPT5403</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.982462976" lon="-113.675671974">
+    <name>WPT5417</name>
+    <cmt>WPT5417</cmt>
+    <desc>WPT5417</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.989129020" lon="-113.906469019">
+    <name>WPT5404</name>
+    <cmt>WPT5404</cmt>
+    <desc>WPT5404</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.995115962" lon="-113.908334998">
+    <name>WPT5423</name>
+    <cmt>WPT5423</cmt>
+    <desc>WPT5423</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="48.995605968" lon="-113.659482999">
+    <name>WPT5416</name>
+    <cmt>WPT5416</cmt>
+    <desc>WPT5416</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.012030978" lon="-113.909221971">
+    <name>WPT5424</name>
+    <cmt>WPT5424</cmt>
+    <desc>WPT5424</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.024166968" lon="-113.911093986">
+    <name>WPT5425</name>
+    <cmt>WPT5425</cmt>
+    <desc>WPT5425</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.024166968" lon="-113.911093986">
+    <name>WPT9040</name>
+    <cmt>WPT9040</cmt>
+    <desc>WPT9040</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.026629990" lon="-113.910403987">
+    <name>WPT9041</name>
+    <cmt>WPT9041</cmt>
+    <desc>WPT9041</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.029141041" lon="-113.910559975">
+    <name>WPT9042</name>
+    <cmt>WPT9042</cmt>
+    <desc>WPT9042</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.031601967" lon="-113.911201023">
+    <name>WPT9043</name>
+    <cmt>WPT9043</cmt>
+    <desc>WPT9043</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.033992989" lon="-113.912265021">
+    <name>WPT9044</name>
+    <cmt>WPT9044</cmt>
+    <desc>WPT9044</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.036493981" lon="-113.912296034">
+    <name>WPT9045</name>
+    <cmt>WPT9045</cmt>
+    <desc>WPT9045</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.038822977" lon="-113.913732022">
+    <name>WPT9046</name>
+    <cmt>WPT9046</cmt>
+    <desc>WPT9046</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.041165970" lon="-113.915087963">
+    <name>WPT9047</name>
+    <cmt>WPT9047</cmt>
+    <desc>WPT9047</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.043536959" lon="-113.916419009">
+    <name>WPT9048</name>
+    <cmt>WPT9048</cmt>
+    <desc>WPT9048</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.045976009" lon="-113.917272035">
+    <name>WPT9049</name>
+    <cmt>WPT9049</cmt>
+    <desc>WPT9049</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="49.046811014" lon="-113.916798038">
+    <name>WPT9050</name>
+    <cmt>WPT9050</cmt>
+    <desc>WPT9050</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.864502979" lon="-112.479634993">
+    <name>WPT5161</name>
+    <cmt>WPT5161</cmt>
+    <desc>WPT5161</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.877675978" lon="-112.488889033">
+    <name>WPT5169</name>
+    <cmt>WPT5169</cmt>
+    <desc>WPT5169</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.894049020" lon="-112.495217035">
+    <name>WPT5168</name>
+    <cmt>WPT5168</cmt>
+    <desc>WPT5168</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.905086981" lon="-112.487945985">
+    <name>WPT5171</name>
+    <cmt>WPT5171</cmt>
+    <desc>WPT5171</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.920361994" lon="-112.477270039">
+    <name>WPT5170</name>
+    <cmt>WPT5170</cmt>
+    <desc>WPT5170</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.924297968" lon="-112.475024024">
+    <name>WPT5178</name>
+    <cmt>WPT5178</cmt>
+    <desc>WPT5178</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.935930960" lon="-112.457069987">
+    <name>WPT5177</name>
+    <cmt>WPT5177</cmt>
+    <desc>WPT5177</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.949510984" lon="-112.419616040">
+    <name>WPT5175</name>
+    <cmt>WPT5175</cmt>
+    <desc>WPT5175</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.950408015" lon="-112.444289010">
+    <name>WPT5176</name>
+    <cmt>WPT5176</cmt>
+    <desc>WPT5176</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.953175971" lon="-112.395494012">
+    <name>WPT5174</name>
+    <cmt>WPT5174</cmt>
+    <desc>WPT5174</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.964408979" lon="-112.376893982">
+    <name>WPT5173</name>
+    <cmt>WPT5173</cmt>
+    <desc>WPT5173</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.975320037" lon="-112.358007040">
+    <name>WPT5172</name>
+    <cmt>WPT5172</cmt>
+    <desc>WPT5172</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.978680007" lon="-112.352047004">
+    <name>WPT5179</name>
+    <cmt>WPT5179</cmt>
+    <desc>WPT5179</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="46.986741973" lon="-112.337374985">
+    <name>WPT5181</name>
+    <cmt>WPT5181</cmt>
+    <desc>WPT5181</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.001665030" lon="-112.325704023">
+    <name>WPT5180</name>
+    <cmt>WPT5180</cmt>
+    <desc>WPT5180</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.003554981" lon="-112.327387026">
+    <name>WPT5184</name>
+    <cmt>WPT5184</cmt>
+    <desc>WPT5184</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.017668011" lon="-112.313698037">
+    <name>WPT5183</name>
+    <cmt>WPT5183</cmt>
+    <desc>WPT5183</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.034508009" lon="-112.316086963">
+    <name>WPT5182</name>
+    <cmt>WPT5182</cmt>
+    <desc>WPT5182</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.039889023" lon="-112.318259971">
+    <name>WPT5187</name>
+    <cmt>WPT5187</cmt>
+    <desc>WPT5187</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.056237003" lon="-112.324762987">
+    <name>WPT5186</name>
+    <cmt>WPT5186</cmt>
+    <desc>WPT5186</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.065286022" lon="-112.345754961">
+    <name>WPT5185</name>
+    <cmt>WPT5185</cmt>
+    <desc>WPT5185</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.068783036" lon="-112.347105034">
+    <name>WPT5189</name>
+    <cmt>WPT5189</cmt>
+    <desc>WPT5189</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.073345976" lon="-112.370940987">
+    <name>WPT5188</name>
+    <cmt>WPT5188</cmt>
+    <desc>WPT5188</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.086902028" lon="-112.380009033">
+    <name>WPT5192</name>
+    <cmt>WPT5192</cmt>
+    <desc>WPT5192</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.100164965" lon="-112.395402985">
+    <name>WPT5191</name>
+    <cmt>WPT5191</cmt>
+    <desc>WPT5191</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.107678000" lon="-112.417670013">
+    <name>WPT5190</name>
+    <cmt>WPT5190</cmt>
+    <desc>WPT5190</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.119458010" lon="-112.425225042">
+    <name>WPT5193</name>
+    <cmt>WPT5193</cmt>
+    <desc>WPT5193</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.130713984" lon="-112.427704995">
+    <name>WPT5196</name>
+    <cmt>WPT5196</cmt>
+    <desc>WPT5196</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.147613997" lon="-112.428905033">
+    <name>WPT5195</name>
+    <cmt>WPT5195</cmt>
+    <desc>WPT5195</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.162318034" lon="-112.441173960">
+    <name>WPT5194</name>
+    <cmt>WPT5194</cmt>
+    <desc>WPT5194</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.163478006" lon="-112.460409002">
+    <name>WPT5198</name>
+    <cmt>WPT5198</cmt>
+    <desc>WPT5198</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.170003988" lon="-112.554555964">
+    <name>WPT5203</name>
+    <cmt>WPT5203</cmt>
+    <desc>WPT5203</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.171346014" lon="-112.505471036">
+    <name>WPT5200</name>
+    <cmt>WPT5200</cmt>
+    <desc>WPT5200</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.172470028" lon="-112.481411034">
+    <name>WPT5197</name>
+    <cmt>WPT5197</cmt>
+    <desc>WPT5197</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.172570024" lon="-112.530262023">
+    <name>WPT5199</name>
+    <cmt>WPT5199</cmt>
+    <desc>WPT5199</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.179538989" lon="-112.575131021">
+    <name>WPT5202</name>
+    <cmt>WPT5202</cmt>
+    <desc>WPT5202</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.186550032" lon="-112.597712036">
+    <name>WPT5201</name>
+    <cmt>WPT5201</cmt>
+    <desc>WPT5201</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.192590032" lon="-112.601497974">
+    <name>WPT5205</name>
+    <cmt>WPT5205</cmt>
+    <desc>WPT5205</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.209477974" lon="-112.603235040">
+    <name>WPT5204</name>
+    <cmt>WPT5204</cmt>
+    <desc>WPT5204</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.209477974" lon="-112.603235040">
+    <name>WPT5206</name>
+    <cmt>WPT5206</cmt>
+    <desc>WPT5206</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.221929962" lon="-112.623828035">
+    <name>WPT5208</name>
+    <cmt>WPT5208</cmt>
+    <desc>WPT5208</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.232511025" lon="-112.643218981">
+    <name>WPT5207</name>
+    <cmt>WPT5207</cmt>
+    <desc>WPT5207</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.245726017" lon="-112.629992003">
+    <name>WPT5210</name>
+    <cmt>WPT5210</cmt>
+    <desc>WPT5210</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.258316977" lon="-112.613357026">
+    <name>WPT5209</name>
+    <cmt>WPT5209</cmt>
+    <desc>WPT5209</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.263145037" lon="-112.634330979">
+    <name>WPT5211</name>
+    <cmt>WPT5211</cmt>
+    <desc>WPT5211</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.263262970" lon="-112.634905977">
+    <name>WPT5214</name>
+    <cmt>WPT5214</cmt>
+    <desc>WPT5214</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.273779996" lon="-112.654362973">
+    <name>WPT5213</name>
+    <cmt>WPT5213</cmt>
+    <desc>WPT5213</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.284932034" lon="-112.673097029">
+    <name>WPT5212</name>
+    <cmt>WPT5212</cmt>
+    <desc>WPT5212</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.289510984" lon="-112.677870020">
+    <name>WPT5217</name>
+    <cmt>WPT5217</cmt>
+    <desc>WPT5217</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.303157980" lon="-112.692665001">
+    <name>WPT5216</name>
+    <cmt>WPT5216</cmt>
+    <desc>WPT5216</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.315564035" lon="-112.709658975">
+    <name>WPT5215</name>
+    <cmt>WPT5215</cmt>
+    <desc>WPT5215</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.318857033" lon="-112.714127032">
+    <name>WPT5219</name>
+    <cmt>WPT5219</cmt>
+    <desc>WPT5219</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.333296034" lon="-112.727103978">
+    <name>WPT5218</name>
+    <cmt>WPT5218</cmt>
+    <desc>WPT5218</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.340257959" lon="-112.731269030">
+    <name>WPT5221</name>
+    <cmt>WPT5221</cmt>
+    <desc>WPT5221</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.350755036" lon="-112.753105983">
+    <name>WPT5223</name>
+    <cmt>WPT5223</cmt>
+    <desc>WPT5223</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.351238001" lon="-112.750205006">
+    <name>WPT5220</name>
+    <cmt>WPT5220</cmt>
+    <desc>WPT5220</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.355878977" lon="-112.776835989">
+    <name>WPT5222</name>
+    <cmt>WPT5222</cmt>
+    <desc>WPT5222</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.357239025" lon="-112.780949995">
+    <name>WPT5228</name>
+    <cmt>WPT5228</cmt>
+    <desc>WPT5228</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="47.367637027" lon="-112.800621986">
+    <name>WPT5227</name>
+    <cmt>WPT5227</cmt>
+    <desc>WPT5227</desc>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>

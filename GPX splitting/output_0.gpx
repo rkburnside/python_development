@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<gpx creator="GaiaGPS" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+<name>CDT Upload Track 1</name>
+<desc>
+</desc>
+<trkseg>
+<trkpt lat="31.4970526379" lon="-108.208554257">
+<ele>1310.416</ele>
+</trkpt>
+<trkpt lat="31.4971635304" lon="-108.210319318">
+<ele>1311.231</ele>
+</trkpt>
+<trkpt lat="31.4974843059" lon="-108.212054288">
+<ele>1311.751</ele>
+</trkpt>
+<trkpt lat="31.497770045" lon="-108.213797556">
+<ele>1312.175</ele>
+</trkpt>

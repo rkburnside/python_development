@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <gpx creator="GaiaGPS" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <trk>
-<name>CDT Upload Track 000</name>
+<name>CDT 000</name>
 <desc>
 </desc>
 <trkseg>
@@ -155,7 +155,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 001</name>
+<name>CDT 001</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.5257117059" lon="-108.282726388">
@@ -308,7 +308,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 002</name>
+<name>CDT 002</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.5785253234" lon="-108.33144553">
@@ -461,7 +461,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 003</name>
+<name>CDT 003</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.6319449525" lon="-108.336954452">
@@ -614,7 +614,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 004</name>
+<name>CDT 004</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.692740405" lon="-108.38548257">
@@ -767,7 +767,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 005</name>
+<name>CDT 005</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.7557667848" lon="-108.417756837">
@@ -920,7 +920,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 006</name>
+<name>CDT 006</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.8268570583" lon="-108.433608441">
@@ -1073,7 +1073,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 007</name>
+<name>CDT 007</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.8908296712" lon="-108.420987809">
@@ -1226,7 +1226,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 008</name>
+<name>CDT 008</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.9439338893" lon="-108.444429981">
@@ -1379,7 +1379,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 009</name>
+<name>CDT 009</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="31.999358302" lon="-108.456959417">
@@ -1532,7 +1532,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 010</name>
+<name>CDT 010</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.0390935522" lon="-108.523083664">
@@ -1685,7 +1685,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 011</name>
+<name>CDT 011</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.0999599155" lon="-108.5637167">
@@ -1838,7 +1838,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 012</name>
+<name>CDT 012</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.1475149784" lon="-108.621638753">
@@ -1991,7 +1991,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 013</name>
+<name>CDT 013</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.2045909613" lon="-108.662179839">
@@ -2144,7 +2144,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 014</name>
+<name>CDT 014</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.230149731" lon="-108.729122831">
@@ -2297,7 +2297,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 015</name>
+<name>CDT 015</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.2938497644" lon="-108.743392099">
@@ -2450,7 +2450,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 016</name>
+<name>CDT 016</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.3576326109" lon="-108.70858415">
@@ -2603,7 +2603,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 017</name>
+<name>CDT 017</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.4039947614" lon="-108.655381277">
@@ -2756,7 +2756,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 018</name>
+<name>CDT 018</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.3972557113" lon="-108.570102202">
@@ -2909,7 +2909,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 019</name>
+<name>CDT 019</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.4356304947" lon="-108.516272111">
@@ -3062,7 +3062,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 020</name>
+<name>CDT 020</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.4974691588" lon="-108.478399236">
@@ -3215,7 +3215,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 021</name>
+<name>CDT 021</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.5469081383" lon="-108.435443658">
@@ -3368,7 +3368,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 022</name>
+<name>CDT 022</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.6015140582" lon="-108.44170385">
@@ -3521,7 +3521,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 023</name>
+<name>CDT 023</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.6476283558" lon="-108.498338191">
@@ -3674,7 +3674,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 024</name>
+<name>CDT 024</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.704578694" lon="-108.543046927">
@@ -3827,7 +3827,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 025</name>
+<name>CDT 025</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.7641001809" lon="-108.513205927">
@@ -3980,7 +3980,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 026</name>
+<name>CDT 026</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.7788271848" lon="-108.456666218">
@@ -4133,7 +4133,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 027</name>
+<name>CDT 027</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.7570610587" lon="-108.374717608">
@@ -4286,7 +4286,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 028</name>
+<name>CDT 028</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.769649839" lon="-108.298022272">
@@ -4439,7 +4439,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 029</name>
+<name>CDT 029</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.8223653883" lon="-108.314287523">
@@ -4592,7 +4592,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 030</name>
+<name>CDT 030</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.8559719585" lon="-108.307962874">
@@ -4745,7 +4745,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 031</name>
+<name>CDT 031</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.8865652345" lon="-108.261549007">
@@ -4898,7 +4898,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 032</name>
+<name>CDT 032</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.8826909512" lon="-108.202588772">
@@ -5051,7 +5051,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 033</name>
+<name>CDT 033</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.9170608614" lon="-108.151060771">
@@ -5204,7 +5204,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 034</name>
+<name>CDT 034</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="32.9618063942" lon="-108.148568664">
@@ -5357,7 +5357,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 035</name>
+<name>CDT 035</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.0204997491" lon="-108.113805475">
@@ -5510,7 +5510,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 036</name>
+<name>CDT 036</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.0794811901" lon="-108.072037697">
@@ -5663,7 +5663,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 037</name>
+<name>CDT 037</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.1143644918" lon="-108.014617637">
@@ -5816,7 +5816,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 038</name>
+<name>CDT 038</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.1009051669" lon="-107.955531171">
@@ -5969,7 +5969,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 039</name>
+<name>CDT 039</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.1303435005" lon="-107.884739293">
@@ -6122,7 +6122,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 040</name>
+<name>CDT 040</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.1833275221" lon="-107.851746362">
@@ -6275,7 +6275,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 041</name>
+<name>CDT 041</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.2417271752" lon="-107.838619631">
@@ -6428,7 +6428,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 042</name>
+<name>CDT 042</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.300485909" lon="-107.821624987">
@@ -6581,7 +6581,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 043</name>
+<name>CDT 043</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.3430071361" lon="-107.844362995">
@@ -6734,7 +6734,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 044</name>
+<name>CDT 044</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.3831670973" lon="-107.844658038">
@@ -6887,7 +6887,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 045</name>
+<name>CDT 045</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.4353046305" lon="-107.868816946">
@@ -7040,7 +7040,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 046</name>
+<name>CDT 046</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.4937464446" lon="-107.836502865">
@@ -7193,7 +7193,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 047</name>
+<name>CDT 047</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.5415170062" lon="-107.803441538">
@@ -7346,7 +7346,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 048</name>
+<name>CDT 048</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.5971595161" lon="-107.794675743">
@@ -7499,7 +7499,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 049</name>
+<name>CDT 049</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6558937747" lon="-107.805060921">
@@ -7652,7 +7652,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 050</name>
+<name>CDT 050</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6895679869" lon="-107.873805603">
@@ -7805,7 +7805,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 051</name>
+<name>CDT 051</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6967228632" lon="-107.957613822">
@@ -7958,7 +7958,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 052</name>
+<name>CDT 052</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6806799006" lon="-108.035307778">
@@ -8111,7 +8111,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 053</name>
+<name>CDT 053</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6745753605" lon="-108.116906025">
@@ -8264,7 +8264,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 054</name>
+<name>CDT 054</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6890058964" lon="-108.19800647">
@@ -8417,7 +8417,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 055</name>
+<name>CDT 055</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6853689887" lon="-108.242007103">
@@ -8570,7 +8570,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 056</name>
+<name>CDT 056</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.640602082" lon="-108.291799715">
@@ -8723,7 +8723,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 057</name>
+<name>CDT 057</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.606535513" lon="-108.346129116">
@@ -8876,7 +8876,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 058</name>
+<name>CDT 058</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6324675288" lon="-108.416199815">
@@ -9029,7 +9029,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 059</name>
+<name>CDT 059</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.6745352112" lon="-108.481869427">
@@ -9182,7 +9182,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 060</name>
+<name>CDT 060</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.7310039252" lon="-108.4451696">
@@ -9335,7 +9335,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 061</name>
+<name>CDT 061</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.7602286879" lon="-108.480305616">
@@ -9488,7 +9488,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 062</name>
+<name>CDT 062</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.8148595858" lon="-108.461173">
@@ -9641,7 +9641,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 063</name>
+<name>CDT 063</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.8578050211" lon="-108.440351933">
@@ -9794,7 +9794,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 064</name>
+<name>CDT 064</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.9107897133" lon="-108.449644865">
@@ -9947,7 +9947,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 065</name>
+<name>CDT 065</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="33.9685201552" lon="-108.412585706">
@@ -10100,7 +10100,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 066</name>
+<name>CDT 066</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.0202577878" lon="-108.387671839">
@@ -10253,7 +10253,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 067</name>
+<name>CDT 067</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.0647579823" lon="-108.377697626">
@@ -10406,7 +10406,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 068</name>
+<name>CDT 068</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.1355171707" lon="-108.362236368">
@@ -10559,7 +10559,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 069</name>
+<name>CDT 069</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.19247346" lon="-108.39243955">
@@ -10712,7 +10712,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 070</name>
+<name>CDT 070</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.2640734371" lon="-108.37915591">
@@ -10865,7 +10865,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 071</name>
+<name>CDT 071</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.3191670999" lon="-108.34240403">
@@ -11018,7 +11018,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 072</name>
+<name>CDT 072</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.3079915084" lon="-108.25507977">
@@ -11171,7 +11171,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 073</name>
+<name>CDT 073</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.3080890737" lon="-108.168062875">
@@ -11324,7 +11324,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 074</name>
+<name>CDT 074</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.3490060885" lon="-108.146735122">
@@ -11477,7 +11477,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 075</name>
+<name>CDT 075</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.3926330563" lon="-108.215128267">
@@ -11630,7 +11630,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 076</name>
+<name>CDT 076</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.4401593693" lon="-108.260847693">
@@ -11783,7 +11783,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 077</name>
+<name>CDT 077</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.4815892726" lon="-108.318748455">
@@ -11936,7 +11936,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 078</name>
+<name>CDT 078</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.5287549961" lon="-108.368522041">
@@ -12089,7 +12089,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 079</name>
+<name>CDT 079</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.5973975863" lon="-108.389049238">
@@ -12242,7 +12242,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 080</name>
+<name>CDT 080</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.6094764955" lon="-108.318947107">
@@ -12395,7 +12395,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 081</name>
+<name>CDT 081</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.6250217408" lon="-108.233288247">
@@ -12548,7 +12548,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 082</name>
+<name>CDT 082</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.6537291724" lon="-108.151117768">
@@ -12701,7 +12701,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 083</name>
+<name>CDT 083</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.6837234776" lon="-108.070962047">
@@ -12854,7 +12854,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 084</name>
+<name>CDT 084</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.7320681158" lon="-108.046650421">
@@ -13007,7 +13007,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 085</name>
+<name>CDT 085</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.756296929" lon="-108.127627652">
@@ -13160,7 +13160,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 086</name>
+<name>CDT 086</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.7676055413" lon="-108.201912688">
@@ -13313,7 +13313,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 087</name>
+<name>CDT 087</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.8308982141" lon="-108.223624667">
@@ -13466,7 +13466,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 088</name>
+<name>CDT 088</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.9006953277" lon="-108.217888176">
@@ -13619,7 +13619,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 089</name>
+<name>CDT 089</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.9521908071" lon="-108.16367235">
@@ -13772,7 +13772,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 090</name>
+<name>CDT 090</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.9874928687" lon="-108.097121129">
@@ -13925,7 +13925,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 091</name>
+<name>CDT 091</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.9950823467" lon="-108.03920419">
@@ -14078,7 +14078,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 092</name>
+<name>CDT 092</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.9509526324" lon="-107.974471422">
@@ -14231,7 +14231,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 093</name>
+<name>CDT 093</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.9352002703" lon="-107.895094631">
@@ -14384,7 +14384,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 094</name>
+<name>CDT 094</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.9204460252" lon="-107.844715957">
@@ -14537,7 +14537,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 095</name>
+<name>CDT 095</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="34.9831809662" lon="-107.804723717">
@@ -14690,7 +14690,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 096</name>
+<name>CDT 096</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.0552551914" lon="-107.801792314">
@@ -14843,7 +14843,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 097</name>
+<name>CDT 097</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.1136386674" lon="-107.784020584">
@@ -14996,7 +14996,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 098</name>
+<name>CDT 098</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.1570395753" lon="-107.844236596">
@@ -15149,7 +15149,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 099</name>
+<name>CDT 099</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.1891518198" lon="-107.769668084">
@@ -15302,7 +15302,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 100</name>
+<name>CDT 100</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.178664634" lon="-107.70425546">
@@ -15455,7 +15455,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 101</name>
+<name>CDT 101</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.2280375641" lon="-107.643482974">
@@ -15608,7 +15608,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 102</name>
+<name>CDT 102</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.2793061454" lon="-107.613301249">
@@ -15761,7 +15761,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 103</name>
+<name>CDT 103</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.3230083827" lon="-107.574211909">
@@ -15914,7 +15914,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 104</name>
+<name>CDT 104</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.381685812" lon="-107.529161191">
@@ -16067,7 +16067,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 105</name>
+<name>CDT 105</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.4291780945" lon="-107.466638144">
@@ -16220,7 +16220,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 106</name>
+<name>CDT 106</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.4812607262" lon="-107.412895896">
@@ -16373,7 +16373,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 107</name>
+<name>CDT 107</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.5334852636" lon="-107.366069471">
@@ -16526,7 +16526,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 108</name>
+<name>CDT 108</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.5561146419" lon="-107.295191428">
@@ -16679,7 +16679,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 109</name>
+<name>CDT 109</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.5968983006" lon="-107.229493065">
@@ -16832,7 +16832,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 110</name>
+<name>CDT 110</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.6513546035" lon="-107.189733004">
@@ -16985,7 +16985,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 111</name>
+<name>CDT 111</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.6940193288" lon="-107.12812392">
@@ -17138,7 +17138,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 112</name>
+<name>CDT 112</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.7389209326" lon="-107.07622502">
@@ -17291,7 +17291,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 113</name>
+<name>CDT 113</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.790639203" lon="-107.037720652">
@@ -17444,7 +17444,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 114</name>
+<name>CDT 114</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.8516661637" lon="-107.011777237">
@@ -17597,7 +17597,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 115</name>
+<name>CDT 115</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.9133951087" lon="-107.027789773">
@@ -17750,7 +17750,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 116</name>
+<name>CDT 116</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="35.9736055043" lon="-107.000880344">
@@ -17903,7 +17903,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 117</name>
+<name>CDT 117</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.0255422909" lon="-106.959614977">
@@ -18056,7 +18056,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 118</name>
+<name>CDT 118</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.0810608324" lon="-106.926686671">
@@ -18209,7 +18209,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 119</name>
+<name>CDT 119</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.1046964582" lon="-106.859584842">
@@ -18362,7 +18362,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 120</name>
+<name>CDT 120</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.1343040224" lon="-106.810852122">
@@ -18515,7 +18515,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 121</name>
+<name>CDT 121</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.1905939505" lon="-106.785024041">
@@ -18668,7 +18668,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 122</name>
+<name>CDT 122</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.2134732772" lon="-106.701009711">
@@ -18821,7 +18821,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 123</name>
+<name>CDT 123</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.2768334243" lon="-106.67272741">
@@ -18974,7 +18974,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 124</name>
+<name>CDT 124</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.3282284886" lon="-106.626573047">
@@ -19127,7 +19127,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 125</name>
+<name>CDT 125</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.3438386098" lon="-106.574134016">
@@ -19280,7 +19280,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 126</name>
+<name>CDT 126</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.3936178107" lon="-106.525307503">
@@ -19433,7 +19433,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 127</name>
+<name>CDT 127</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.3900307752" lon="-106.451049121">
@@ -19586,7 +19586,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 128</name>
+<name>CDT 128</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.4282692689" lon="-106.384298662">
@@ -19739,7 +19739,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 129</name>
+<name>CDT 129</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.4375975728" lon="-106.327111954">
@@ -19892,7 +19892,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 130</name>
+<name>CDT 130</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.4922778402" lon="-106.299294177">
@@ -20045,7 +20045,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 131</name>
+<name>CDT 131</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.5596944094" lon="-106.318664672">
@@ -20198,7 +20198,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 132</name>
+<name>CDT 132</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.6123553086" lon="-106.304037664">
@@ -20351,7 +20351,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 133</name>
+<name>CDT 133</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.6066578776" lon="-106.223877752">
@@ -20504,7 +20504,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 134</name>
+<name>CDT 134</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.6369923204" lon="-106.192704029">
@@ -20657,7 +20657,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 135</name>
+<name>CDT 135</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.6870817356" lon="-106.22385948">
@@ -20810,7 +20810,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 136</name>
+<name>CDT 136</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.7429156881" lon="-106.248349724">
@@ -20963,7 +20963,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 137</name>
+<name>CDT 137</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.7994294968" lon="-106.271109357">
@@ -21116,7 +21116,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 138</name>
+<name>CDT 138</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.845924668" lon="-106.273948643">
@@ -21269,7 +21269,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 139</name>
+<name>CDT 139</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.8875410687" lon="-106.334792795">
@@ -21422,7 +21422,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 140</name>
+<name>CDT 140</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.9393369555" lon="-106.365399733">
@@ -21575,7 +21575,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 141</name>
+<name>CDT 141</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.9563311804" lon="-106.413075328">
@@ -21728,7 +21728,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 142</name>
+<name>CDT 142</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="36.9962415285" lon="-106.453225398">
@@ -21881,7 +21881,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 143</name>
+<name>CDT 143</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.0256642718" lon="-106.49775954">
@@ -22034,7 +22034,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 144</name>
+<name>CDT 144</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.0919895172" lon="-106.521091489">
@@ -22187,7 +22187,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 145</name>
+<name>CDT 145</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.1320702694" lon="-106.574202999">
@@ -22340,7 +22340,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 146</name>
+<name>CDT 146</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.2040382959" lon="-106.597559005">
@@ -22493,7 +22493,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 147</name>
+<name>CDT 147</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.254793318" lon="-106.64883337">
@@ -22646,7 +22646,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 148</name>
+<name>CDT 148</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.2905355971" lon="-106.673076767">
@@ -22799,7 +22799,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 149</name>
+<name>CDT 149</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.3354324233" lon="-106.70353258">
@@ -22952,7 +22952,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 150</name>
+<name>CDT 150</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.3901680112" lon="-106.67657529">
@@ -23105,7 +23105,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 151</name>
+<name>CDT 151</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.432009466" lon="-106.668695295">
@@ -23258,7 +23258,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 152</name>
+<name>CDT 152</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.4568625633" lon="-106.733492436">
@@ -23411,7 +23411,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 153</name>
+<name>CDT 153</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.4669302348" lon="-106.808369234">
@@ -23564,7 +23564,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 154</name>
+<name>CDT 154</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.4961829092" lon="-106.856039129">
@@ -23717,7 +23717,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 155</name>
+<name>CDT 155</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.5449727103" lon="-106.88019326">
@@ -23870,7 +23870,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 156</name>
+<name>CDT 156</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.5694107357" lon="-106.953724427">
@@ -24023,7 +24023,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 157</name>
+<name>CDT 157</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.5624094158" lon="-107.02890004">
@@ -24176,7 +24176,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 158</name>
+<name>CDT 158</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.5939476676" lon="-107.091809325">
@@ -24329,7 +24329,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 159</name>
+<name>CDT 159</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.627175292" lon="-107.139268834">
@@ -24482,7 +24482,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 160</name>
+<name>CDT 160</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.6147376373" lon="-107.208777191">
@@ -24635,7 +24635,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 161</name>
+<name>CDT 161</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.6300062798" lon="-107.26564832">
@@ -24788,7 +24788,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 162</name>
+<name>CDT 162</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.6719188131" lon="-107.30971341">
@@ -24941,7 +24941,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 163</name>
+<name>CDT 163</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.6654510014" lon="-107.385008801">
@@ -25094,7 +25094,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 164</name>
+<name>CDT 164</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.642024504" lon="-107.452362087">
@@ -25247,7 +25247,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 165</name>
+<name>CDT 165</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.6869855355" lon="-107.510548839">
@@ -25400,7 +25400,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 166</name>
+<name>CDT 166</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.732947534" lon="-107.544556987">
@@ -25553,7 +25553,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 167</name>
+<name>CDT 167</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.7901194058" lon="-107.539227102">
@@ -25706,7 +25706,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 168</name>
+<name>CDT 168</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.8469896968" lon="-107.493790481">
@@ -25859,7 +25859,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 169</name>
+<name>CDT 169</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.8508541733" lon="-107.403903622">
@@ -26012,7 +26012,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 170</name>
+<name>CDT 170</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.8720922396" lon="-107.334250761">
@@ -26165,7 +26165,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 171</name>
+<name>CDT 171</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.9208458308" lon="-107.28225396">
@@ -26318,7 +26318,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 172</name>
+<name>CDT 172</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.9296982102" lon="-107.198214736">
@@ -26471,7 +26471,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 173</name>
+<name>CDT 173</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.9367918987" lon="-107.106476482">
@@ -26624,7 +26624,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 174</name>
+<name>CDT 174</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.9550356138" lon="-107.034598561">
@@ -26777,7 +26777,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 175</name>
+<name>CDT 175</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.9693491384" lon="-106.961268811">
@@ -26930,7 +26930,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 176</name>
+<name>CDT 176</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="37.9766325094" lon="-106.879774919">
@@ -27083,7 +27083,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 177</name>
+<name>CDT 177</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.0235592648" lon="-106.836338472">
@@ -27236,7 +27236,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 178</name>
+<name>CDT 178</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.0852523353" lon="-106.787433838">
@@ -27389,7 +27389,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 179</name>
+<name>CDT 179</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.1249369588" lon="-106.741089709">
@@ -27542,7 +27542,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 180</name>
+<name>CDT 180</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.1509776041" lon="-106.664840207">
@@ -27695,7 +27695,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 181</name>
+<name>CDT 181</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.1771129649" lon="-106.603486938">
@@ -27848,7 +27848,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 182</name>
+<name>CDT 182</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.2273262646" lon="-106.582965609">
@@ -28001,7 +28001,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 183</name>
+<name>CDT 183</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.2721805945" lon="-106.53051761">
@@ -28154,7 +28154,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 184</name>
+<name>CDT 184</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.3161264099" lon="-106.479024058">
@@ -28307,7 +28307,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 185</name>
+<name>CDT 185</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.2838090602" lon="-106.408843724">
@@ -28460,7 +28460,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 186</name>
+<name>CDT 186</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.3143659588" lon="-106.331575988">
@@ -28613,7 +28613,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 187</name>
+<name>CDT 187</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.3498542663" lon="-106.266559996">
@@ -28766,7 +28766,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 188</name>
+<name>CDT 188</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.3988748211" lon="-106.252816524">
@@ -28919,7 +28919,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 189</name>
+<name>CDT 189</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.4584338591" lon="-106.2860817">
@@ -29072,7 +29072,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 190</name>
+<name>CDT 190</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.498870926" lon="-106.337243328">
@@ -29225,7 +29225,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 191</name>
+<name>CDT 191</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.5584048182" lon="-106.345113264">
@@ -29378,7 +29378,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 192</name>
+<name>CDT 192</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.5907178093" lon="-106.339867869">
@@ -29531,7 +29531,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 193</name>
+<name>CDT 193</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.6466418672" lon="-106.387883183">
@@ -29684,7 +29684,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 194</name>
+<name>CDT 194</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.6954200175" lon="-106.410711966">
@@ -29837,7 +29837,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 195</name>
+<name>CDT 195</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.7538975384" lon="-106.406811532">
@@ -29990,7 +29990,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 196</name>
+<name>CDT 196</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.8209623192" lon="-106.416421467">
@@ -30143,7 +30143,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 197</name>
+<name>CDT 197</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.8769501634" lon="-106.39674386">
@@ -30296,7 +30296,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 198</name>
+<name>CDT 198</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.8886408228" lon="-106.46901506">
@@ -30449,7 +30449,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 199</name>
+<name>CDT 199</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.9407841396" lon="-106.456540441">
@@ -30602,7 +30602,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 200</name>
+<name>CDT 200</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="38.9909091778" lon="-106.417161003">
@@ -30755,7 +30755,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 201</name>
+<name>CDT 201</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.0603446122" lon="-106.38720626">
@@ -30908,7 +30908,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 202</name>
+<name>CDT 202</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.075840991" lon="-106.303542797">
@@ -31061,7 +31061,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 203</name>
+<name>CDT 203</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.0966147836" lon="-106.388618862">
@@ -31214,7 +31214,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 204</name>
+<name>CDT 204</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.1545280349" lon="-106.415298209">
@@ -31367,7 +31367,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 205</name>
+<name>CDT 205</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.2184050102" lon="-106.425083829">
@@ -31520,7 +31520,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 206</name>
+<name>CDT 206</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.2810315732" lon="-106.44586131">
@@ -31673,7 +31673,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 207</name>
+<name>CDT 207</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.3282319978" lon="-106.406825781">
@@ -31826,7 +31826,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 208</name>
+<name>CDT 208</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.3555083033" lon="-106.323430538">
@@ -31979,7 +31979,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 209</name>
+<name>CDT 209</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.4077494368" lon="-106.315693874">
@@ -32132,7 +32132,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 210</name>
+<name>CDT 210</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.4324722793" lon="-106.242940966">
@@ -32285,7 +32285,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 211</name>
+<name>CDT 211</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.4690368231" lon="-106.226924909">
@@ -32438,7 +32438,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 212</name>
+<name>CDT 212</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.4957884215" lon="-106.145739974">
@@ -32591,7 +32591,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 213</name>
+<name>CDT 213</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.5100531634" lon="-106.111569721">
@@ -32744,7 +32744,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 214</name>
+<name>CDT 214</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.5400837623" lon="-106.059081573">
@@ -32897,7 +32897,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 215</name>
+<name>CDT 215</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.540254334" lon="-105.986410137">
@@ -33050,7 +33050,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 216</name>
+<name>CDT 216</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.5266303886" lon="-105.932509638">
@@ -33203,7 +33203,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 217</name>
+<name>CDT 217</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.4827714097" lon="-105.9129244">
@@ -33356,7 +33356,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 218</name>
+<name>CDT 218</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.4943913259" lon="-105.869498765">
@@ -33509,7 +33509,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 219</name>
+<name>CDT 219</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.531704206" lon="-105.827188594">
@@ -33662,7 +33662,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 220</name>
+<name>CDT 220</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.5864611678" lon="-105.83521544">
@@ -33815,7 +33815,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 221</name>
+<name>CDT 221</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.6161118988" lon="-105.7864621">
@@ -33968,7 +33968,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 222</name>
+<name>CDT 222</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.6540150326" lon="-105.791749321">
@@ -34121,7 +34121,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 223</name>
+<name>CDT 223</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.6978951339" lon="-105.83737663">
@@ -34274,7 +34274,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 224</name>
+<name>CDT 224</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.7306939401" lon="-105.881702565">
@@ -34427,7 +34427,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 225</name>
+<name>CDT 225</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.7942952346" lon="-105.887556234">
@@ -34580,7 +34580,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 226</name>
+<name>CDT 226</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.7839350346" lon="-105.824919697">
@@ -34733,7 +34733,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 227</name>
+<name>CDT 227</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.7996765003" lon="-105.753220394">
@@ -34886,7 +34886,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 228</name>
+<name>CDT 228</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.8098381329" lon="-105.674230764">
@@ -35039,7 +35039,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 229</name>
+<name>CDT 229</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.8662693799" lon="-105.697626667">
@@ -35192,7 +35192,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 230</name>
+<name>CDT 230</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.9365382269" lon="-105.685727382">
@@ -35345,7 +35345,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 231</name>
+<name>CDT 231</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="39.9864648655" lon="-105.731295599">
@@ -35498,7 +35498,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 232</name>
+<name>CDT 232</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.0480035413" lon="-105.727731613">
@@ -35651,7 +35651,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 233</name>
+<name>CDT 233</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.1071383711" lon="-105.749233207">
@@ -35804,7 +35804,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 234</name>
+<name>CDT 234</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.1516169403" lon="-105.814275434">
@@ -35957,7 +35957,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 235</name>
+<name>CDT 235</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.2151562925" lon="-105.829844484">
@@ -36110,7 +36110,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 236</name>
+<name>CDT 236</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.2642117999" lon="-105.789371291">
@@ -36263,7 +36263,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 237</name>
+<name>CDT 237</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.2822454646" lon="-105.715019535">
@@ -36416,7 +36416,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 238</name>
+<name>CDT 238</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3247023188" lon="-105.723929582">
@@ -36569,7 +36569,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 239</name>
+<name>CDT 239</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3235482983" lon="-105.803468479">
@@ -36722,7 +36722,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 240</name>
+<name>CDT 240</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3294444643" lon="-105.868402161">
@@ -36875,7 +36875,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 241</name>
+<name>CDT 241</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3630783595" lon="-105.944569269">
@@ -37028,7 +37028,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 242</name>
+<name>CDT 242</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3636493348" lon="-106.020458937">
@@ -37181,7 +37181,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 243</name>
+<name>CDT 243</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3496424202" lon="-106.08990971">
@@ -37334,7 +37334,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 244</name>
+<name>CDT 244</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3396013193" lon="-106.157727772">
@@ -37487,7 +37487,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 245</name>
+<name>CDT 245</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3242878336" lon="-106.228091586">
@@ -37640,7 +37640,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 246</name>
+<name>CDT 246</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3555137757" lon="-106.293877708">
@@ -37793,7 +37793,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 247</name>
+<name>CDT 247</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.344418902" lon="-106.340324935">
@@ -37946,7 +37946,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 248</name>
+<name>CDT 248</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3468736261" lon="-106.41053142">
@@ -38099,7 +38099,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 249</name>
+<name>CDT 249</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3998421412" lon="-106.456648987">
@@ -38252,7 +38252,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 250</name>
+<name>CDT 250</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.4364226107" lon="-106.481625466">
@@ -38405,7 +38405,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 251</name>
+<name>CDT 251</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.3963411879" lon="-106.556064058">
@@ -38558,7 +38558,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 252</name>
+<name>CDT 252</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.4052553419" lon="-106.625412488">
@@ -38711,7 +38711,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 253</name>
+<name>CDT 253</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.4623465799" lon="-106.662594192">
@@ -38864,7 +38864,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 254</name>
+<name>CDT 254</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.5209753104" lon="-106.673066542">
@@ -39017,7 +39017,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 255</name>
+<name>CDT 255</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.5815932341" lon="-106.698671831">
@@ -39170,7 +39170,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 256</name>
+<name>CDT 256</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.6452558003" lon="-106.692861831">
@@ -39323,7 +39323,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 257</name>
+<name>CDT 257</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.7152579352" lon="-106.669299966">
@@ -39476,7 +39476,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 258</name>
+<name>CDT 258</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.7516574394" lon="-106.730881808">
@@ -39629,7 +39629,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 259</name>
+<name>CDT 259</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.7976444159" lon="-106.773761613">
@@ -39782,7 +39782,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 260</name>
+<name>CDT 260</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.8669382799" lon="-106.793817915">
@@ -39935,7 +39935,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 261</name>
+<name>CDT 261</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.924562104" lon="-106.833574791">
@@ -40088,7 +40088,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 262</name>
+<name>CDT 262</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="40.9825602639" lon="-106.866449537">
@@ -40241,7 +40241,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 263</name>
+<name>CDT 263</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.0140389204" lon="-106.910606325">
@@ -40394,7 +40394,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 264</name>
+<name>CDT 264</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.0198161472" lon="-106.93732406">
@@ -40547,7 +40547,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 265</name>
+<name>CDT 265</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.0752669629" lon="-106.888174759">
@@ -40700,7 +40700,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 266</name>
+<name>CDT 266</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.1102526076" lon="-106.96988591">
@@ -40853,7 +40853,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 267</name>
+<name>CDT 267</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.1701962072" lon="-106.990969833">
@@ -41006,7 +41006,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 268</name>
+<name>CDT 268</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.2024865672" lon="-107.076756516">
@@ -41159,7 +41159,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 269</name>
+<name>CDT 269</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.256589992" lon="-107.121399036">
@@ -41312,7 +41312,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 270</name>
+<name>CDT 270</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.3037704676" lon="-107.195170848">
@@ -41465,7 +41465,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 271</name>
+<name>CDT 271</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.3322624005" lon="-107.250626693">
@@ -41618,7 +41618,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 272</name>
+<name>CDT 272</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.3770780899" lon="-107.290407205">
@@ -41771,7 +41771,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 273</name>
+<name>CDT 273</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.4147590194" lon="-107.36244061">
@@ -41924,7 +41924,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 274</name>
+<name>CDT 274</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.3921716344" lon="-107.413066551">
@@ -42077,7 +42077,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 275</name>
+<name>CDT 275</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.4480257872" lon="-107.46676161">
@@ -42230,7 +42230,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 276</name>
+<name>CDT 276</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.5143048484" lon="-107.471338632">
@@ -42383,7 +42383,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 277</name>
+<name>CDT 277</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.5635667183" lon="-107.403891552">
@@ -42536,7 +42536,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 278</name>
+<name>CDT 278</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.6038510669" lon="-107.325906157">
@@ -42689,7 +42689,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 279</name>
+<name>CDT 279</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.6541944537" lon="-107.28271178">
@@ -42842,7 +42842,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 280</name>
+<name>CDT 280</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.72203389" lon="-107.295324281">
@@ -42995,7 +42995,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 281</name>
+<name>CDT 281</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.7797833588" lon="-107.246788032">
@@ -43148,7 +43148,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 282</name>
+<name>CDT 282</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.8287334219" lon="-107.249549534">
@@ -43301,7 +43301,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 283</name>
+<name>CDT 283</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.8952672929" lon="-107.297426546">
@@ -43454,7 +43454,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 284</name>
+<name>CDT 284</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="41.9564541802" lon="-107.344917152">
@@ -43607,7 +43607,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 285</name>
+<name>CDT 285</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.0054092724" lon="-107.415765692">
@@ -43760,7 +43760,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 286</name>
+<name>CDT 286</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.0608094614" lon="-107.481980547">
@@ -43913,7 +43913,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 287</name>
+<name>CDT 287</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.099916907" lon="-107.556290394">
@@ -44066,7 +44066,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 288</name>
+<name>CDT 288</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.1529715043" lon="-107.624181714">
@@ -44219,7 +44219,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 289</name>
+<name>CDT 289</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.2109026089" lon="-107.684555138">
@@ -44372,7 +44372,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 290</name>
+<name>CDT 290</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.2724744771" lon="-107.744497983">
@@ -44525,7 +44525,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 291</name>
+<name>CDT 291</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.308030175" lon="-107.82887877">
@@ -44678,7 +44678,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 292</name>
+<name>CDT 292</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.3433697037" lon="-107.892236486">
@@ -44831,7 +44831,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 293</name>
+<name>CDT 293</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.3827720247" lon="-107.955039823">
@@ -44984,7 +44984,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 294</name>
+<name>CDT 294</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.3886833619" lon="-108.044573721">
@@ -45137,7 +45137,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 295</name>
+<name>CDT 295</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.4092157558" lon="-108.122628769">
@@ -45290,7 +45290,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 296</name>
+<name>CDT 296</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.4007284082" lon="-108.206211515">
@@ -45443,7 +45443,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 297</name>
+<name>CDT 297</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.3727269843" lon="-108.301119637">
@@ -45596,7 +45596,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 298</name>
+<name>CDT 298</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.3809140921" lon="-108.395259976">
@@ -45749,7 +45749,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 299</name>
+<name>CDT 299</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.3787158541" lon="-108.490918279">
@@ -45902,7 +45902,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 300</name>
+<name>CDT 300</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.3902496044" lon="-108.588275844">
@@ -46055,7 +46055,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 301</name>
+<name>CDT 301</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.4272830319" lon="-108.645684253">
@@ -46208,7 +46208,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 302</name>
+<name>CDT 302</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.4802398961" lon="-108.71306302">
@@ -46361,7 +46361,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 303</name>
+<name>CDT 303</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.4666956626" lon="-108.794461358">
@@ -46514,7 +46514,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 304</name>
+<name>CDT 304</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.4834077526" lon="-108.86872544">
@@ -46667,7 +46667,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 305</name>
+<name>CDT 305</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.5381154288" lon="-108.924700711">
@@ -46820,7 +46820,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 306</name>
+<name>CDT 306</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.5204934832" lon="-109.01152147">
@@ -46973,7 +46973,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 307</name>
+<name>CDT 307</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.5699555967" lon="-109.067911562">
@@ -47126,7 +47126,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 308</name>
+<name>CDT 308</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.621408077" lon="-109.130310388">
@@ -47279,7 +47279,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 309</name>
+<name>CDT 309</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.6220392343" lon="-109.196325084">
@@ -47432,7 +47432,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 310</name>
+<name>CDT 310</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.6726799272" lon="-109.248917">
@@ -47585,7 +47585,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 311</name>
+<name>CDT 311</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.7417054866" lon="-109.284043293">
@@ -47738,7 +47738,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 312</name>
+<name>CDT 312</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.8044314589" lon="-109.326834166">
@@ -47891,7 +47891,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 313</name>
+<name>CDT 313</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.8550915979" lon="-109.391391249">
@@ -48044,7 +48044,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 314</name>
+<name>CDT 314</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.9077413492" lon="-109.456923734">
@@ -48197,7 +48197,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 315</name>
+<name>CDT 315</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="42.9474814609" lon="-109.526532674">
@@ -48350,7 +48350,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 316</name>
+<name>CDT 316</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.0090528261" lon="-109.583312357">
@@ -48503,7 +48503,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 317</name>
+<name>CDT 317</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.0673820712" lon="-109.648496741">
@@ -48656,7 +48656,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 318</name>
+<name>CDT 318</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.1349545438" lon="-109.693383258">
@@ -48809,7 +48809,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 319</name>
+<name>CDT 319</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.1493466068" lon="-109.744005427">
@@ -48962,7 +48962,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 320</name>
+<name>CDT 320</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.2184007484" lon="-109.758138573">
@@ -49115,7 +49115,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 321</name>
+<name>CDT 321</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.2756664976" lon="-109.821219854">
@@ -49268,7 +49268,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 322</name>
+<name>CDT 322</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.3406725992" lon="-109.84690737">
@@ -49421,7 +49421,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 323</name>
+<name>CDT 323</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.3952548821" lon="-109.858385799">
@@ -49574,7 +49574,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 324</name>
+<name>CDT 324</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.4521913901" lon="-109.905252792">
@@ -49727,7 +49727,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 325</name>
+<name>CDT 325</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.4847671539" lon="-109.93165059">
@@ -49880,7 +49880,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 326</name>
+<name>CDT 326</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.5386973247" lon="-109.971674848">
@@ -50033,7 +50033,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 327</name>
+<name>CDT 327</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.5828631651" lon="-110.045694513">
@@ -50186,7 +50186,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 328</name>
+<name>CDT 328</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.6290086433" lon="-110.015707333">
@@ -50339,7 +50339,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 329</name>
+<name>CDT 329</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.6623305641" lon="-109.987932974">
@@ -50492,7 +50492,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 330</name>
+<name>CDT 330</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.7066787947" lon="-110.017479435">
@@ -50645,7 +50645,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 331</name>
+<name>CDT 331</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.750337027" lon="-110.005467664">
@@ -50798,7 +50798,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 332</name>
+<name>CDT 332</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.821386816" lon="-110.031712912">
@@ -50951,7 +50951,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 333</name>
+<name>CDT 333</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.8616475277" lon="-110.079835346">
@@ -51104,7 +51104,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 334</name>
+<name>CDT 334</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.9092464279" lon="-110.129247922">
@@ -51257,7 +51257,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 335</name>
+<name>CDT 335</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="43.9326051995" lon="-110.207138183">
@@ -51410,7 +51410,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 336</name>
+<name>CDT 336</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.0005763993" lon="-110.177850556">
@@ -51563,7 +51563,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 337</name>
+<name>CDT 337</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.0619940404" lon="-110.19425788">
@@ -51716,7 +51716,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 338</name>
+<name>CDT 338</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.1068493761" lon="-110.258420007">
@@ -51869,7 +51869,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 339</name>
+<name>CDT 339</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.1549511906" lon="-110.331905745">
@@ -52022,7 +52022,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 340</name>
+<name>CDT 340</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.1924231593" lon="-110.419975827">
@@ -52175,7 +52175,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 341</name>
+<name>CDT 341</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.2455732264" lon="-110.44378194">
@@ -52328,7 +52328,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 342</name>
+<name>CDT 342</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.294788409" lon="-110.506198118">
@@ -52481,7 +52481,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 343</name>
+<name>CDT 343</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.3214282766" lon="-110.588138932">
@@ -52634,7 +52634,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 344</name>
+<name>CDT 344</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.3568107206" lon="-110.664015021">
@@ -52787,7 +52787,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 345</name>
+<name>CDT 345</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.3274142966" lon="-110.752765713">
@@ -52940,7 +52940,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 346</name>
+<name>CDT 346</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.3740065303" lon="-110.817488926">
@@ -53093,7 +53093,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 347</name>
+<name>CDT 347</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4396515004" lon="-110.818661889">
@@ -53246,7 +53246,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 348</name>
+<name>CDT 348</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4801916648" lon="-110.872642435">
@@ -53399,7 +53399,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 349</name>
+<name>CDT 349</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4231839105" lon="-110.92455701">
@@ -53552,7 +53552,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 350</name>
+<name>CDT 350</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4084566552" lon="-111.02437919">
@@ -53705,7 +53705,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 351</name>
+<name>CDT 351</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4092018902" lon="-111.078485465">
@@ -53858,7 +53858,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 352</name>
+<name>CDT 352</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4479343295" lon="-111.097843638">
@@ -54011,7 +54011,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 353</name>
+<name>CDT 353</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5046479627" lon="-111.143748974">
@@ -54164,7 +54164,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 354</name>
+<name>CDT 354</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5416794624" lon="-111.227416126">
@@ -54317,7 +54317,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 355</name>
+<name>CDT 355</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5774732903" lon="-111.223462801">
@@ -54470,7 +54470,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 356</name>
+<name>CDT 356</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.6350626647" lon="-111.233556122">
@@ -54623,7 +54623,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 357</name>
+<name>CDT 357</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.6831489727" lon="-111.277048141">
@@ -54776,7 +54776,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 358</name>
+<name>CDT 358</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.7316354327" lon="-111.336648166">
@@ -54929,7 +54929,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 359</name>
+<name>CDT 359</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.7291617654" lon="-111.406915085">
@@ -55082,7 +55082,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 360</name>
+<name>CDT 360</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.7196215671" lon="-111.455127709">
@@ -55235,7 +55235,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 361</name>
+<name>CDT 361</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.6619337052" lon="-111.488091387">
@@ -55388,7 +55388,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 362</name>
+<name>CDT 362</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.6000002418" lon="-111.522934791">
@@ -55541,7 +55541,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 363</name>
+<name>CDT 363</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.562398186" lon="-111.540651787">
@@ -55694,7 +55694,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 364</name>
+<name>CDT 364</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.548079716" lon="-111.632723389">
@@ -55847,7 +55847,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 365</name>
+<name>CDT 365</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5511630829" lon="-111.709212195">
@@ -56000,7 +56000,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 366</name>
+<name>CDT 366</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.52501758" lon="-111.787407221">
@@ -56153,7 +56153,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 367</name>
+<name>CDT 367</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5173053909" lon="-111.855515717">
@@ -56306,7 +56306,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 368</name>
+<name>CDT 368</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.557363512" lon="-111.919088177">
@@ -56459,7 +56459,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 369</name>
+<name>CDT 369</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5348434336" lon="-112.011016114">
@@ -56612,7 +56612,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 370</name>
+<name>CDT 370</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.524433529" lon="-112.096268199">
@@ -56765,7 +56765,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 371</name>
+<name>CDT 371</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5220549125" lon="-112.17440296">
@@ -56918,7 +56918,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 372</name>
+<name>CDT 372</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.526414508" lon="-112.263924703">
@@ -57071,7 +57071,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 373</name>
+<name>CDT 373</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5115017612" lon="-112.334502926">
@@ -57224,7 +57224,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 374</name>
+<name>CDT 374</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4520189147" lon="-112.382893497">
@@ -57377,7 +57377,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 375</name>
+<name>CDT 375</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4747383147" lon="-112.460143631">
@@ -57530,7 +57530,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 376</name>
+<name>CDT 376</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5027551614" lon="-112.515316335">
@@ -57683,7 +57683,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 377</name>
+<name>CDT 377</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4916473795" lon="-112.612439962">
@@ -57836,7 +57836,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 378</name>
+<name>CDT 378</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5088524092" lon="-112.695139423">
@@ -57989,7 +57989,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 379</name>
+<name>CDT 379</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4844765775" lon="-112.778019933">
@@ -58142,7 +58142,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 380</name>
+<name>CDT 380</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4348029047" lon="-112.838226641">
@@ -58295,7 +58295,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 381</name>
+<name>CDT 381</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4363648724" lon="-112.887439895">
@@ -58448,7 +58448,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 382</name>
+<name>CDT 382</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4463070668" lon="-112.924995432">
@@ -58601,7 +58601,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 383</name>
+<name>CDT 383</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.4827354886" lon="-112.99764608">
@@ -58754,7 +58754,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 384</name>
+<name>CDT 384</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.530947106" lon="-113.014442492">
@@ -58907,7 +58907,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 385</name>
+<name>CDT 385</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.5784003288" lon="-113.014699901">
@@ -59060,7 +59060,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 386</name>
+<name>CDT 386</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.6422349755" lon="-113.057019375">
@@ -59213,7 +59213,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 387</name>
+<name>CDT 387</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.701931309" lon="-113.098221207">
@@ -59366,7 +59366,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 388</name>
+<name>CDT 388</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.7605597042" lon="-113.137895688">
@@ -59519,7 +59519,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 389</name>
+<name>CDT 389</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.8015872762" lon="-113.193040229">
@@ -59672,7 +59672,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 390</name>
+<name>CDT 390</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.8094002996" lon="-113.284426527">
@@ -59825,7 +59825,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 391</name>
+<name>CDT 391</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.8075817619" lon="-113.352237213">
@@ -59978,7 +59978,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 392</name>
+<name>CDT 392</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.8464820068" lon="-113.421727968">
@@ -60131,7 +60131,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 393</name>
+<name>CDT 393</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.9058816209" lon="-113.473394187">
@@ -60284,7 +60284,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 394</name>
+<name>CDT 394</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="44.9508610927" lon="-113.461926486">
@@ -60437,7 +60437,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 395</name>
+<name>CDT 395</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.0139495824" lon="-113.441832215">
@@ -60590,7 +60590,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 396</name>
+<name>CDT 396</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.0632589776" lon="-113.482623501">
@@ -60743,7 +60743,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 397</name>
+<name>CDT 397</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.1154798269" lon="-113.518399475">
@@ -60896,7 +60896,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 398</name>
+<name>CDT 398</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.1483491249" lon="-113.579869419">
@@ -61049,7 +61049,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 399</name>
+<name>CDT 399</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.1981160883" lon="-113.572273403">
@@ -61202,7 +61202,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 400</name>
+<name>CDT 400</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.2301493753" lon="-113.517741831">
@@ -61355,7 +61355,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 401</name>
+<name>CDT 401</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.2694666199" lon="-113.579491312">
@@ -61508,7 +61508,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 402</name>
+<name>CDT 402</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.2928916924" lon="-113.659989769">
@@ -61661,7 +61661,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 403</name>
+<name>CDT 403</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.341153685" lon="-113.716645734">
@@ -61814,7 +61814,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 404</name>
+<name>CDT 404</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.3811082896" lon="-113.719418133">
@@ -61967,7 +61967,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 405</name>
+<name>CDT 405</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.425972091" lon="-113.76540754">
@@ -62120,7 +62120,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 406</name>
+<name>CDT 406</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.4720901605" lon="-113.825020306">
@@ -62273,7 +62273,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 407</name>
+<name>CDT 407</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.5395192187" lon="-113.828033097">
@@ -62426,7 +62426,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 408</name>
+<name>CDT 408</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.6057830248" lon="-113.81113979">
@@ -62579,7 +62579,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 409</name>
+<name>CDT 409</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.6233728677" lon="-113.903653789">
@@ -62732,7 +62732,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 410</name>
+<name>CDT 410</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.6865424942" lon="-113.933068067">
@@ -62885,7 +62885,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 411</name>
+<name>CDT 411</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.7323141396" lon="-113.905699309">
@@ -63038,7 +63038,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 412</name>
+<name>CDT 412</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.7737287879" lon="-113.85464564">
@@ -63191,7 +63191,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 413</name>
+<name>CDT 413</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.7746815588" lon="-113.79278007">
@@ -63344,7 +63344,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 414</name>
+<name>CDT 414</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.8203693014" lon="-113.728359779">
@@ -63497,7 +63497,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 415</name>
+<name>CDT 415</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.8344623819" lon="-113.654201059">
@@ -63650,7 +63650,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 416</name>
+<name>CDT 416</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.8697547205" lon="-113.578370484">
@@ -63803,7 +63803,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 417</name>
+<name>CDT 417</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9238604922" lon="-113.525977973">
@@ -63956,7 +63956,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 418</name>
+<name>CDT 418</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9592146892" lon="-113.48523966">
@@ -64109,7 +64109,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 419</name>
+<name>CDT 419</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9517763369" lon="-113.41895557">
@@ -64262,7 +64262,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 420</name>
+<name>CDT 420</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.0074104648" lon="-113.371404866">
@@ -64415,7 +64415,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 421</name>
+<name>CDT 421</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.0379152279" lon="-113.317213012">
@@ -64568,7 +64568,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 422</name>
+<name>CDT 422</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.0339218378" lon="-113.263492221">
@@ -64721,7 +64721,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 423</name>
+<name>CDT 423</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9924007393" lon="-113.183519477">
@@ -64874,7 +64874,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 424</name>
+<name>CDT 424</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9338832367" lon="-113.124598805">
@@ -65027,7 +65027,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 425</name>
+<name>CDT 425</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9669582266" lon="-113.062756704">
@@ -65180,7 +65180,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 426</name>
+<name>CDT 426</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.974934781" lon="-112.996751983">
@@ -65333,7 +65333,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 427</name>
+<name>CDT 427</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.928506162" lon="-112.933416395">
@@ -65486,7 +65486,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 428</name>
+<name>CDT 428</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9317067079" lon="-112.849925682">
@@ -65639,7 +65639,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 429</name>
+<name>CDT 429</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9241105244" lon="-112.77950638">
@@ -65792,7 +65792,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 430</name>
+<name>CDT 430</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.8814216591" lon="-112.727887183">
@@ -65945,7 +65945,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 431</name>
+<name>CDT 431</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.8404563647" lon="-112.669373704">
@@ -66098,7 +66098,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 432</name>
+<name>CDT 432</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.825007176" lon="-112.578257304">
@@ -66251,7 +66251,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 433</name>
+<name>CDT 433</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.7975028828" lon="-112.513736095">
@@ -66404,7 +66404,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 434</name>
+<name>CDT 434</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.8203697205" lon="-112.451636335">
@@ -66557,7 +66557,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 435</name>
+<name>CDT 435</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.8736731764" lon="-112.414311636">
@@ -66710,7 +66710,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 436</name>
+<name>CDT 436</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9264142904" lon="-112.427029917">
@@ -66863,7 +66863,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 437</name>
+<name>CDT 437</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="45.9715306386" lon="-112.437702762">
@@ -67016,7 +67016,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 438</name>
+<name>CDT 438</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.008806387" lon="-112.399964752">
@@ -67169,7 +67169,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 439</name>
+<name>CDT 439</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.0609017592" lon="-112.367417989">
@@ -67322,7 +67322,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 440</name>
+<name>CDT 440</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.0988990217" lon="-112.41450333">
@@ -67475,7 +67475,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 441</name>
+<name>CDT 441</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.1219991278" lon="-112.486857595">
@@ -67628,7 +67628,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 442</name>
+<name>CDT 442</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.1664625257" lon="-112.517484231">
@@ -67781,7 +67781,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 443</name>
+<name>CDT 443</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.1823805142" lon="-112.577066235">
@@ -67934,7 +67934,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 444</name>
+<name>CDT 444</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.2390318699" lon="-112.588137304">
@@ -68087,7 +68087,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 445</name>
+<name>CDT 445</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.2937459163" lon="-112.57177826">
@@ -68240,7 +68240,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 446</name>
+<name>CDT 446</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.3301014993" lon="-112.510986663">
@@ -68393,7 +68393,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 447</name>
+<name>CDT 447</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.3336058892" lon="-112.450029021">
@@ -68546,7 +68546,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 448</name>
+<name>CDT 448</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.3855172787" lon="-112.404001979">
@@ -68699,7 +68699,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 449</name>
+<name>CDT 449</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.4119863231" lon="-112.328741038">
@@ -68852,7 +68852,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 450</name>
+<name>CDT 450</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.4556486625" lon="-112.348589301">
@@ -69005,7 +69005,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 451</name>
+<name>CDT 451</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.4905624744" lon="-112.315335693">
@@ -69158,7 +69158,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 452</name>
+<name>CDT 452</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.5505420323" lon="-112.304633176">
@@ -69311,7 +69311,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 453</name>
+<name>CDT 453</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.6105923336" lon="-112.296567941">
@@ -69464,7 +69464,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 454</name>
+<name>CDT 454</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.6728115361" lon="-112.328412887">
@@ -69617,7 +69617,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 455</name>
+<name>CDT 455</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.7268596403" lon="-112.333651576">
@@ -69770,7 +69770,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 456</name>
+<name>CDT 456</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.7250804976" lon="-112.426357437">
@@ -69923,7 +69923,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 457</name>
+<name>CDT 457</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.7425113358" lon="-112.511235941">
@@ -70076,7 +70076,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 458</name>
+<name>CDT 458</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.8022667617" lon="-112.511356641">
@@ -70229,7 +70229,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 459</name>
+<name>CDT 459</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.853162013" lon="-112.466354789">
@@ -70382,7 +70382,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 460</name>
+<name>CDT 460</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.9013207406" lon="-112.488660039">
@@ -70535,7 +70535,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 461</name>
+<name>CDT 461</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.9540849049" lon="-112.438738598">
@@ -70688,7 +70688,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 462</name>
+<name>CDT 462</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="46.9784139656" lon="-112.357353">
@@ -70841,7 +70841,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 463</name>
+<name>CDT 463</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.0240380894" lon="-112.31542496">
@@ -70994,7 +70994,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 464</name>
+<name>CDT 464</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.0758385863" lon="-112.359736981">
@@ -71147,7 +71147,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 465</name>
+<name>CDT 465</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.1098457277" lon="-112.420294723">
@@ -71300,7 +71300,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 466</name>
+<name>CDT 466</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.1634210087" lon="-112.455128739">
@@ -71453,7 +71453,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 467</name>
+<name>CDT 467</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.1716729086" lon="-112.55688278">
@@ -71606,7 +71606,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 468</name>
+<name>CDT 468</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.2138895374" lon="-112.600390138">
@@ -71759,7 +71759,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 469</name>
+<name>CDT 469</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.2591104917" lon="-112.616081061">
@@ -71912,7 +71912,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 470</name>
+<name>CDT 470</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.3068970628" lon="-112.697127359">
@@ -72065,7 +72065,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 471</name>
+<name>CDT 471</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.355072638" lon="-112.766264733">
@@ -72218,7 +72218,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 472</name>
+<name>CDT 472</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.4037854094" lon="-112.848751964">
@@ -72371,7 +72371,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 473</name>
+<name>CDT 473</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.4465905316" lon="-112.909755874">
@@ -72524,7 +72524,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 474</name>
+<name>CDT 474</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.509234529" lon="-112.894437192">
@@ -72677,7 +72677,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 475</name>
+<name>CDT 475</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.554935934" lon="-112.966887262">
@@ -72830,7 +72830,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 476</name>
+<name>CDT 476</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.5818101596" lon="-113.062436432">
@@ -72983,7 +72983,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 477</name>
+<name>CDT 477</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.6512980647" lon="-113.087469572">
@@ -73136,7 +73136,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 478</name>
+<name>CDT 478</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.6963190269" lon="-113.152378108">
@@ -73289,7 +73289,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 479</name>
+<name>CDT 479</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.7402486652" lon="-113.118860722">
@@ -73442,7 +73442,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 480</name>
+<name>CDT 480</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.7449772321" lon="-113.025254309">
@@ -73595,7 +73595,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 481</name>
+<name>CDT 481</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.785041891" lon="-112.965670377">
@@ -73748,7 +73748,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 482</name>
+<name>CDT 482</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.7983038221" lon="-113.056434486">
@@ -73901,7 +73901,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 483</name>
+<name>CDT 483</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.8663750179" lon="-113.050679639">
@@ -74054,7 +74054,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 484</name>
+<name>CDT 484</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.9126342386" lon="-113.042196985">
@@ -74207,7 +74207,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 485</name>
+<name>CDT 485</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.9404434655" lon="-112.973629665">
@@ -74360,7 +74360,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 486</name>
+<name>CDT 486</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="47.9896572232" lon="-113.045175495">
@@ -74513,7 +74513,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 487</name>
+<name>CDT 487</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.0476174969" lon="-113.023142824">
@@ -74666,7 +74666,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 488</name>
+<name>CDT 488</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.1157822348" lon="-113.026148658">
@@ -74819,7 +74819,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 489</name>
+<name>CDT 489</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.1567243114" lon="-113.095797999">
@@ -74972,7 +74972,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 490</name>
+<name>CDT 490</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.2024627645" lon="-113.181944015">
@@ -75125,7 +75125,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 491</name>
+<name>CDT 491</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.2481597271" lon="-113.194757681">
@@ -75278,7 +75278,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 492</name>
+<name>CDT 492</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.2783741411" lon="-113.193916641">
@@ -75431,7 +75431,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 493</name>
+<name>CDT 493</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.2934857067" lon="-113.284471538">
@@ -75584,7 +75584,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 494</name>
+<name>CDT 494</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.3196169604" lon="-113.355866577">
@@ -75737,7 +75737,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 495</name>
+<name>CDT 495</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.3713635616" lon="-113.316516811">
@@ -75890,7 +75890,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 496</name>
+<name>CDT 496</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.4356682654" lon="-113.271894408">
@@ -76043,7 +76043,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 497</name>
+<name>CDT 497</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.4615387581" lon="-113.270824039">
@@ -76196,7 +76196,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 498</name>
+<name>CDT 498</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.4778862353" lon="-113.346079532">
@@ -76349,7 +76349,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 499</name>
+<name>CDT 499</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.514618082" lon="-113.405807465">
@@ -76502,7 +76502,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 500</name>
+<name>CDT 500</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.5392613802" lon="-113.454611935">
@@ -76655,7 +76655,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 501</name>
+<name>CDT 501</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.574630497" lon="-113.503862573">
@@ -76808,7 +76808,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 502</name>
+<name>CDT 502</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.6374839582" lon="-113.528455663">
@@ -76961,7 +76961,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 503</name>
+<name>CDT 503</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.6745856144" lon="-113.492124137">
@@ -77114,7 +77114,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 504</name>
+<name>CDT 504</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.6685966607" lon="-113.588478807">
@@ -77267,7 +77267,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 505</name>
+<name>CDT 505</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.6904728413" lon="-113.661095761">
@@ -77420,7 +77420,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 506</name>
+<name>CDT 506</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.7371571921" lon="-113.694796124">
@@ -77573,7 +77573,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 507</name>
+<name>CDT 507</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.7978342082" lon="-113.656850411">
@@ -77726,7 +77726,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 508</name>
+<name>CDT 508</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.7823231611" lon="-113.748468384">
@@ -77879,7 +77879,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 509</name>
+<name>CDT 509</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.8091289904" lon="-113.773543183">
@@ -78032,7 +78032,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 510</name>
+<name>CDT 510</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.8409858383" lon="-113.828285895">
@@ -78185,7 +78185,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 511</name>
+<name>CDT 511</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.8769244216" lon="-113.904784089">
@@ -78338,7 +78338,7 @@
 </trkseg>
 </trk>
 <trk>
-<name>CDT Upload Track 512</name>
+<name>CDT 512</name>
 <desc></desc>
 <trkseg>
 <trkpt lat="48.9486274961" lon="-113.892897461">
